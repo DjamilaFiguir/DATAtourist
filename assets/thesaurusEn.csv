@@ -1,0 +1,1337 @@
+data:AerospaceSpace,Aerospace space,dt:CulturalTheme,0
+data:AfricanCuisine,African cuisine,dt:CuisineCategory,0
+data:Anthropology,Anthropology,dt:CulturalTheme,0
+data:Antiquity,Antiquity,dt:CulturalTheme,0
+data:Archeology,Archeology,dt:CulturalTheme,0
+data:ArchitectureAndHeritage,Architecture and heritage,dt:CulturalTheme,0
+data:ArtGallery,Art gallery,dt:CulturalTheme,0
+data:ArtistsHouse,Artist's house,dt:CulturalTheme,0
+data:Artotheque,Artothèque,dt:CulturalHeritageAmenity,0
+data:ArtSale,Art sale,dt:CulturalTheme,0
+data:ArtsAndCraft,Arts and craft,dt:CulturalTheme,0
+data:AsianCuisine,Asian cuisine,dt:CuisineCategory,0
+data:Astrology,Astrology,dt:CulturalTheme,0
+data:Astronomy,Astronomy,dt:CulturalTheme,0
+data:Automates,Automates,dt:CulturalTheme,0
+data:Basketry,Basketry,dt:CulturalTheme,0
+data:BindingAndFrames,Binding and frames,dt:CulturalTheme,0
+data:BoardGames,Board games,dt:CulturalTheme,0
+data:Botany,Botany,dt:CulturalTheme,0
+data:Bullfighting,Bullfighting,dt:CulturalTheme,0
+data:Calligraphy,Calligraphy,dt:CulturalTheme,0
+data:Carrier,Carrier,dt:CulturalTheme,0
+data:CellarDoorSale,Cellar door sale,dt:CulturalHeritageAmenity,0
+data:Ceramic,Ceramic,dt:CulturalTheme,0
+data:Cinema,Cinema,dt:CulturalTheme,0
+data:ClassicalMusic,Classical music,dt:CulturalTheme,0
+data:Comics,Comics,dt:CulturalTheme,0
+data:Computing,Computing,dt:CulturalTheme,0
+data:ContemporaryMusic,Contemporary music,dt:CulturalTheme,0
+data:Cosmetics,Cosmetics,dt:CulturalTheme,0
+data:Craft,Craft,dt:CulturalTheme,0
+data:Crafts,Crafts,dt:CulturalTheme,0
+data:CreativeArts,Creative arts,dt:CulturalTheme,0
+data:Crepery,Crepery,dt:CuisineCategory,0
+data:Culture,Culture,dt:CulturalTheme,0
+data:Dance,Dance,dt:CulturalTheme,0
+data:Decoration,Decoration,dt:CulturalTheme,0
+data:DecorativeArt,Decorative art,dt:CulturalTheme,0
+data:Design,Design,dt:CulturalTheme,0
+data:Easter,Easter,dt:CulturalTheme,0
+data:EcoMuseum,Eco museum,dt:CulturalTheme,0
+data:ElectroMusic,Electro music,dt:CulturalTheme,0
+data:EnergyProduction,Energy production,dt:CulturalTheme,0
+data:EuropeanCuisine,European cuisine,dt:CuisineCategory,0
+data:FactoriesAndFirms,Factories and firms,dt:CulturalTheme,0
+data:Fanfare,Fanfare,dt:CulturalTheme,0
+data:FarmingOrAgrifood,"Farming, agrifood",dt:CulturalTheme,0
+data:Fashion,Fashion,dt:CulturalTheme,0
+data:FaunaFlora,Fauna - flora,dt:CulturalTheme,0
+data:FineArts,Fine arts,dt:CulturalTheme,0
+data:AdultCourse,Adult course,dt:ActivityPricingPolicy,0
+data:AdultGroupCourse,Adult group course,dt:ActivityPricingPolicy,0
+data:AdultMenu,Adult menu,dt:CateringPricingPolicy,0
+data:AlaCarte,A la carte,dt:CateringPricingPolicy,0
+data:Antique,Antique,dt:ArchitecturalStyle,0
+data:ArtNouveauOrArtDeco,Art nouveau or art deco,dt:ArchitecturalStyle,0
+data:Associations,Associations,dt:Audience,0
+data:AWeekend2d1nOnDpPers,A weekend 2d / 1n on dp (/ pers.),dt:CollectiveAccommodationPricingPolicy,0
+data:AWeekend2d1nPcPers,A weekend 2d / 1n pc (/ pers.),dt:CollectiveAccommodationPricingPolicy,0
+data:AWeekend2d1nRental4People,A weekend 2d / 1n rental (4 people).,dt:CollectiveAccommodationPricingPolicy,0
+data:BabyChair,Baby chair,dt:CateringAmenity,0
+data:Baroque,Baroque,dt:ArchitecturalStyle,0
+data:Bowling,Bowling,dt:CampingAndCaravanningAmenity,0
+data:BreadDepot,Bread depot,dt:CampingAndCaravanningAmenity,0
+data:Buffet,Buffet,dt:CateringAmenity,0
+data:Bungalow,Bungalow,dt:CampingAndCaravanningAmenity,0
+data:BungalowRental,Bungalow rental,dt:CampingAndCaravanningAmenity,0
+data:BungalowTentRental,Bungalow tent rental,dt:CampingAndCaravanningAmenity,0
+data:CamperPitch,Camper pitch,dt:CampingAndCaravanningAmenity,0
+data:CanoeBase,Canoe base,dt:CampingAndCaravanningAmenity,0
+data:Caravan,Caravan,dt:CampingAndCaravanningAmenity,0
+data:CaravanRental,Caravan rental,dt:CampingAndCaravanningAmenity,0
+data:CellarDoorSale,Cellar door sale,dt:CateringAmenity,0
+data:ChildCourse,Child course,dt:ActivityPricingPolicy,0
+data:ChildMenu,Child menu,dt:CateringPricingPolicy,0
+data:ChildrenGroupCourse,Children group course,dt:ActivityPricingPolicy,0
+data:ChristmasEveDinnerForGroups,Christmas eve dinner for groups,dt:CateringAmenity,0
+data:Classical,Classical,dt:ArchitecturalStyle,0
+data:Contemporary,Contemporary,dt:ArchitecturalStyle,0
+data:Covers,Covers,dt:CateringAmenity,0
+data:DayPackage,Day package,dt:ActivityPricingPolicy,0
+data:EntertainmentLocation,Entertainment location,dt:CampingAndCaravanningAmenity,0
+data:FlatRate,Flat rate,dt:ActivityPricingPolicy,0
+data:ForAll,For all,dt:Audience,0
+data:GalloRoman,Gallo-roman,dt:ArchitecturalStyle,0
+data:GasDepot,Gas depot,dt:CampingAndCaravanningAmenity,0
+data:Gothic,Gothic,dt:ArchitecturalStyle,0
+data:GroupMenu,Group menu,dt:CateringPricingPolicy,0
+data:Groups,Groups,dt:Audience,0
+data:GroupsWithMembership,Groups with membership,dt:Audience,0
+data:HalfDayPackage,Half day package,dt:ActivityPricingPolicy,0
+data:Ice,Ice,dt:CampingAndCaravanningAmenity,0
+data:Individuals,Individuals,dt:Audience,0
+data:IndividualsWithMembership,Individuals with membership,dt:Audience,0
+data:MealDelivery,Meal delivery,dt:CateringAmenity,0
+data:Medieval,Medieval,dt:ArchitecturalStyle,0
+data:MobilHomeHire,Mobile home hire,dt:CampingAndCaravanningAmenity,0
+data:Modern,Modern,dt:ArchitecturalStyle,0
+data:NeoGothic,Neo-gothic,dt:ArchitecturalStyle,0
+data:NewYearsEveForGroups,New year's eve dinner for groups,dt:CateringAmenity,0
+data:Firework,Firework,dt:CulturalTheme,0
+data:FolkMusic,Folk music,dt:CulturalTheme,0
+data:ForeignCuisine,Foreign cuisine,dt:CuisineCategory,0
+data:Gastronomy,Gastronomy,dt:CulturalTheme,0
+data:Geology,Geology,dt:CulturalTheme,0
+data:Glassware,Glassware,dt:CulturalTheme,0
+data:GourmetCuisine,Gourmet cuisine,dt:CuisineCategory,0
+data:GrillOrRotisserie,Grill or rotisserie,dt:CuisineCategory,0
+data:HalalCuisine,Halal cuisine,dt:CuisineCategory,0
+data:Health,Health,dt:CulturalTheme,0
+data:HighTech,High tech,dt:CulturalTheme,0
+data:HipHopRapMusic,Hip hop or rap music,dt:CulturalTheme,0
+data:HistoricCharacter,Historic character,dt:CulturalTheme,0
+data:IndianCuisine,Indian cuisine,dt:CuisineCategory,0
+data:InovativeFrenchCuisine,Inovative french cuisine,dt:CuisineCategory,0
+data:InventiveCuisine,Inventive cuisine,dt:CuisineCategory,0
+data:KosherCuisine,Kosher cuisine,dt:CuisineCategory,0
+data:LyonnaiseBouchon,Lyonnaise bouchon,dt:CuisineCategory,0
+data:MediterraneanCuisine,Mediterranean cuisine,dt:CuisineCategory,0
+data:NorthAmericanCuisine,North american cuisine,dt:CuisineCategory,0
+data:OrganicCuisine,Organic cuisine,dt:CuisineCategory,0
+data:Pizzeria,Pizzeria,dt:CuisineCategory,0
+data:SingleProductSpecialities,Single product specialities,dt:CuisineCategory,0
+data:SouthAmericanCuisine,South american cuisine,dt:CuisineCategory,0
+data:SpecialDietCuisine,Special diet cuisine,dt:CuisineCategory,0
+data:SportsEquipmentRental,Sports equipment rental,dt:CommonAmenity,0
+data:SquashCourt,Squash court,dt:CommonAmenity,0
+data:SupervisedBeach,Supervised beach,dt:CommonAmenity,0
+data:SwimmingPool,Swimming pool,dt:CommonAmenity,0
+data:Swing,Swing,dt:CommonAmenity,0
+data:TastingArea,Tasting area,dt:CommonAmenity,0
+data:TeenagersClub,Teenagers club,dt:CommonAmenity,0
+data:TelephoneAccess,Telephone access,dt:CommonAmenity,0
+data:ThemedBar,Themed bar,dt:CommonAmenity,0
+data:Toboggan,Toboggan,dt:CommonAmenity,0
+data:Toilet,Toilets,dt:CommonAmenity,0
+data:TourOperating,Tour operating,dt:CommonAmenity,0
+data:TradeShows,Trade shows,dt:CommonAmenity,0
+data:TraditionalCuisine,French traditional cuisine,dt:CuisineCategory,0
+data:TrainingRestaurant,Training restaurant,dt:CuisineCategory,0
+data:TropicalCuisine,Tropical cuisine,dt:CuisineCategory,0
+data:Valet,Valet,dt:CommonAmenity,0
+data:VeganCuisine,Vegan cuisine,dt:CuisineCategory,0
+data:VegetarianCuisine,Vegetarian cuisine,dt:CuisineCategory,0
+data:VolleyballCourt,Volleyball court,dt:CommonAmenity,0
+data:WastwaterEvacuation,Wastwater evacuation,dt:CommonAmenity,0
+data:WaterSpot,Water spot,dt:CommonAmenity,0
+data:WaterToboggan,Water toboggan,dt:CommonAmenity,0
+data:Wifi,"Wifi",dt:CommonAmenity,0
+data:AdditionalPerson,Additional person,dt:AccommodationPricingPolicy,0
+data:Barbecue,Barbecue,dt:AccommodationAmenity,0
+data:Bath,Bath,dt:AccommodationAmenity,0
+data:Bathing,Bathing,dt:AccommodationAmenity,0
+data:BathroomSink,Bathroom sink,dt:AccommodationAmenity,0
+data:BeachUmbrella,Beach umbrella,dt:AccommodationAmenity,0
+data:Bedroom,Bedroom,dt:AccommodationAmenity,0
+data:BikeLoan,Bike loan,dt:AccommodationAmenity,0
+data:CableSatellite,Cable - satellite,dt:AccommodationAmenity,0
+data:Cafeteria,Cafeteria,dt:AccommodationAmenity,0
+data:CanalPlus,Canal plus tv channel,dt:AccommodationAmenity,0
+data:ChargingStation,Charging station,dt:AccommodationAmenity,0
+data:Cinema,Cinema,dt:AccommodationAmenity,0
+data:CoffeeMaker,Coffee maker,dt:AccommodationAmenity,0
+data:CommunalKitchen,Communal kitchen,dt:AccommodationAmenity,0
+data:CommunityRoom,Community room,dt:AccommodationAmenity,0
+data:Container,Container,dt:AccommodationAmenity,0
+data:Court,Court,dt:AccommodationAmenity,0
+data:DailyHousekeeping,Daily housekeeping,dt:AccommodationAmenity,0
+data:Dishwasher,Dishwasher,dt:AccommodationAmenity,0
+data:DogShower,Dog shower,dt:AccommodationAmenity,0
+data:Dormitory,Dormitory,dt:AccommodationAmenity,0
+data:DoubleGlazing,Double glazing,dt:AccommodationAmenity,0
+data:DVDPlayer,Dvd player,dt:AccommodationAmenity,0
+data:ElectricalConnections,Electrical connections,dt:AccommodationAmenity,0
+data:FinalHousekeeping,Final housekeeping,dt:AccommodationAmenity,0
+data:Fireplace,Fireplace,dt:AccommodationAmenity,0
+data:Floor,Floor,dt:AccommodationAmenity,0
+data:Freezer,Freezer,dt:AccommodationAmenity,0
+data:Fridge,Fridge,dt:AccommodationAmenity,0
+data:Garage,Garage,dt:AccommodationAmenity,0
+data:Garden,Garden,dt:AccommodationAmenity,0
+data:GardenLounge,Garden lounge,dt:AccommodationAmenity,0
+data:GasHeating,Gas heating,dt:AccommodationAmenity,0
+data:HairDryer,Hair dryer,dt:AccommodationAmenity,0
+data:Hammam,Hammam,dt:AccommodationAmenity,0
+data:HealthHeated,Health heated,dt:AccommodationAmenity,0
+data:Heating,Heating,dt:AccommodationAmenity,0
+data:HotWater,Hot water,dt:AccommodationAmenity,0
+data:IronAndIroningBoard,Iron and ironing board,dt:AccommodationAmenity,0
+data:KitchenKitchenette,Kitchen - kitchenette,dt:AccommodationAmenity,0
+data:LaundryWithHotWater,Laundry with hot water,dt:AccommodationAmenity,0
+data:LinenHire,Linen hire,dt:AccommodationAmenity,0
+data:LivingRoom,Living room,dt:AccommodationAmenity,0
+data:Massages,Massages,dt:AccommodationAmenity,0
+data:Meals,Meals,dt:AccommodationPricingPolicy,0
+data:Microwave,Microwave,dt:AccommodationAmenity,0
+data:MidWeek,Mid-week,dt:AccommodationPricingPolicy,0
+data:MiniBar,Mini bar,dt:AccommodationAmenity,0
+data:MultimediaRoom,Multimedia room,dt:AccommodationAmenity,0
+data:AdditionalServicesBooking,Additional services booking,dt:CommonAmenity,0
+data:Aerodrome,Aerodrome,dt:CommonAmenity,0
+data:AirConditioner,Air conditioner,dt:CommonAmenity,0
+data:AirlineBooking,Airline booking,dt:CommonAmenity,0
+data:ATM,Atm,dt:CommonAmenity,0
+data:BabyClub,Baby club,dt:CommonAmenity,0
+data:BabyEquipment,Baby or child equipment,dt:CommonAmenity,0
+data:BabySitter,Baby sitter,dt:CommonAmenity,0
+data:BadmintonCourt,Badminton court,dt:CommonAmenity,0
+data:Bar,Bar,dt:CommonAmenity,0
+data:BasketballCourt,Basketball court,dt:CommonAmenity,0
+data:Beach,Beach,dt:CommonAmenity,0
+data:BeachClub,Beach club,dt:CommonAmenity,0
+data:BeachVolleyballCourt,Beach volleyball court,dt:CommonAmenity,0
+data:BikeGarage,Bike garage,dt:CommonAmenity,0
+data:BikeHire,Bike hire,dt:CommonAmenity,0
+data:BilliardOrPoolTable,Billiard or pool table,dt:CommonAmenity,0
+data:Booking,Booking,dt:CommonAmenity,0
+data:Bookstore,Bookstore,dt:CommonAmenity,0
+data:BoulesPitch,Boules pitch,dt:CommonAmenity,0
+data:CableSkiing,Cable skiing,dt:CommonAmenity,0
+data:CamperServicePoint,Camper service point,dt:CommonAmenity,0
+data:CarPark,Car park,dt:CommonAmenity,0
+data:Casino,Casino,dt:CommonAmenity,0
+data:Caterer,Caterer,dt:CommonAmenity,0
+data:ChangingTable,Changing table,dt:CommonAmenity,0
+data:ChemicalToiletEmptying,Chemical toilets emptying,dt:CommonAmenity,0
+data:ChildToilet,Child toilets,dt:CommonAmenity,0
+data:Cloakroom,Cloakroom,dt:CommonAmenity,0
+data:CoachParking,Coach parking,dt:CommonAmenity,0
+data:ConferenceRoom,Conference room,dt:CommonAmenity,0
+data:CoveredCarPark,Covered car park,dt:CommonAmenity,0
+data:CurrencyExchangeOffice,Currency exchange office,dt:CommonAmenity,0
+data:DanceFloor,Dance floor,dt:CommonAmenity,0
+data:DrinkingWaterFaucet,Drinking water faucet,dt:CommonAmenity,0
+data:Elevator,Elevator,dt:CommonAmenity,0
+data:EnclosedLand,Enclosed land,dt:CommonAmenity,0
+data:EquestrianCenter,Equestrian center,dt:CommonAmenity,0
+data:ExcursionBooking,Excursion booking,dt:CommonAmenity,0
+data:ExternalFacilitiesBooking,External facilities booking,dt:CommonAmenity,0
+data:FacilitiesForDisabled,Facilities for disabled,dt:CommonAmenity,0
+data:Fax,Fax,dt:CommonAmenity,0
+data:FoodGrocery,Food - grocery,dt:CommonAmenity,0
+data:FootballField,Football field,dt:CommonAmenity,0
+data:GameArea,Game area,dt:CommonAmenity,0
+data:GameRoom,Game room,dt:CommonAmenity,0
+data:GarageOrIndoorParkCar,Garage or indoor car park,dt:CommonAmenity,0
+data:GolfCourse,Golf course,dt:CommonAmenity,0
+data:HeatedPool,Heated pool,dt:CommonAmenity,0
+data:HeatedTerrace,Heated terrace,dt:CommonAmenity,0
+data:InclosedTerrace,Inclosed terrace,dt:CommonAmenity,0
+data:IndoorPool,Indoor pool,dt:CommonAmenity,0
+data:Jacuzzi,"Spa, jacuzzi or outdoor jacuzzi",dt:CommonAmenity,0
+data:KidsClub,Kids club,dt:CommonAmenity,0
+data:LastMinuteBooking,Last minute booking,dt:CommonAmenity,0
+data:LeisureCentre,Leisure centre,dt:CommonAmenity,0
+data:Library,Library,dt:CommonAmenity,0
+data:LuggageTransport,Luggage transport,dt:CommonAmenity,0
+data:MarkedTrails,Marked trails,dt:CommonAmenity,0
+data:MeetingRoom,Meeting room,dt:CommonAmenity,0
+data:MiniGolf,Mini golf,dt:CommonAmenity,0
+data:MultimediaLibrary,Multimedia library,dt:CommonAmenity,0
+data:Nightclub,Nightclub,dt:CommonAmenity,0
+data:NightReception,Night reception,dt:CommonAmenity,0
+data:Nightwatch,Nightwatch,dt:CommonAmenity,0
+data:NordicBath,Nordic bath,dt:CommonAmenity,0
+data:Nursery,"Daycare, Nursery",dt:CommonAmenity,0
+data:OneStorey,One-storey,dt:CommonAmenity,0
+data:OneWeek7d6nPcPers,One week 7d / 6n pc (/ pers.),dt:CollectiveAccommodationPricingPolicy,0
+data:OneWeek7d6nRental4People,One week 7d / 6n rental (4 people).,dt:CollectiveAccommodationPricingPolicy,0
+data:OutdoorCarPark,Outdoor car park,dt:CommonAmenity,0
+data:OutdoorPool,Outdoor pool,dt:CommonAmenity,0
+data:PianoBar,Piano bar,dt:CommonAmenity,0
+data:PicnicArea,Picnic area,dt:CommonAmenity,0
+data:PicnicTables,Picnic tables,dt:CommonAmenity,0
+data:PingPongTable,Ping pong table,dt:CommonAmenity,0
+data:Playground,Playground,dt:CommonAmenity,0
+data:Pontoon,Pontoon,dt:CommonAmenity,0
+data:PrivateParking,Private parking,dt:CommonAmenity,0
+data:PrivatePool,Private pool,dt:CommonAmenity,0
+data:PrivateToilet,Private toilets,dt:CommonAmenity,0
+data:PublicToilets,Public toilets,dt:CommonAmenity,0
+data:PushchairRoom,Pushchair room,dt:CommonAmenity,0
+data:RelaxationArea,Relaxation area,dt:CommonAmenity,0
+data:Rink,Rink,dt:CommonAmenity,0
+data:SeparateToilet,Separate toilets,dt:CommonAmenity,0
+data:SharedPool,Shared pool,dt:CommonAmenity,0
+data:SharedToilet,Shared toilets,dt:CommonAmenity,0
+data:Shelter,Shelter,dt:CommonAmenity,0
+data:Shop,Shop,dt:CommonAmenity,0
+data:ShopsFirstNeed,Shops first need,dt:CommonAmenity,0
+data:ShowBooking,Show booking,dt:CommonAmenity,0
+data:ShuttleAirportOrRailwayStation,Shuttle airport or railway station,dt:CommonAmenity,0
+data:ShuttleForAdditionalActivities,Shuttle for additional activities,dt:CommonAmenity,0
+data:SiteClosedAtNight,Site closed at night,dt:CommonAmenity,0
+data:SmokingArea,Smoking area,dt:CommonAmenity,0
+data:SnackAndDrinksBar,Snack and drinks bar,dt:CommonAmenity,0
+data:Solarium,Solarium,dt:CommonAmenity,0
+data:SouvenirSales,Souvenir sales,dt:CommonAmenity,0
+data:SportsEquipmentLending,Sports equipment lending,dt:CommonAmenity,0
+data:AirTourDeFrance,Air tour de france,dt:EntertainmentAndEventTheme,0
+data:Christmas,Christmas,dt:EntertainmentAndEventTheme,0
+data:CountryAndWindmillHeritageDays,Country and Windmill Heritage Days,dt:EntertainmentAndEventTheme,0
+data:CyclingTourDeFrance,Cycling tour de france,dt:EntertainmentAndEventTheme,0
+data:Easter,Easter,dt:EntertainmentAndEventTheme,0
+data:EuropeanArtisticCraftDays,World wetlands day,dt:EntertainmentAndEventTheme,0
+data:EuropeanGardenEvent,European garden event,dt:EntertainmentAndEventTheme,0
+data:EuropeanNightOfMuseums,European night of museums,dt:EntertainmentAndEventTheme,0
+data:EuropeanSustainableDevelopmentWeek,European Sustainable Development Week,dt:EntertainmentAndEventTheme,0
+data:EuropeanWindmillsDayAndMillHeritageDay,European Windmills Day and Mill Heritage Day,dt:EntertainmentAndEventTheme,0
+data:FrenchFilmFestival,French film festival,dt:EntertainmentAndEventTheme,0
+data:FrenchGastronomyDay,French gastronomy day,dt:EntertainmentAndEventTheme,0
+data:FrenchMusicFestival,French music festival,dt:EntertainmentAndEventTheme,0
+data:FrenchPhotoFestival,French photo festival,dt:EntertainmentAndEventTheme,0
+data:HeritageDays,Heritage days,dt:EntertainmentAndEventTheme,0
+data:History,History,dt:CulturalTheme,0
+data:HouseCrafts,House crafts,dt:CulturalTheme,0
+data:Industry,Industry,dt:CulturalTheme,0
+data:InstrumentalMusic,Instrumental music,dt:CulturalTheme,0
+data:JazzBlues,Jazz or blues,dt:CulturalTheme,0
+data:JewellerSCraft,Jeweller's craft,dt:CulturalTheme,0
+data:JourneesDeLaccueil,Journées de l'accueil,dt:EntertainmentAndEventTheme,0
+data:LanguageCourse,Language course,dt:CulturalTheme,0
+data:LeatherWorking,Leather working,dt:CulturalTheme,0
+data:Lifestyle,Lifestyle,dt:CulturalTheme,0
+data:Literature,Literature,dt:CulturalTheme,0
+data:LyricalArt,Lyrical art,dt:CulturalTheme,0
+data:MagicAndSorcery,Magic and sorcery,dt:CulturalTheme,0
+data:Maritime,Maritime,dt:CulturalTheme,0
+data:MarseilleProvenceGastronomy,Marseille Provence gastronomy,dt:EntertainmentAndEventTheme,0
+data:Media,Media,dt:CulturalTheme,0
+data:Medieval,Medieval,dt:CulturalTheme,0
+data:Memory,Memory,dt:CulturalTheme,0
+data:MetalWorking,Metal working,dt:CulturalTheme,0
+data:Military,Military,dt:CulturalTheme,0
+data:Miniature,Miniature,dt:CulturalTheme,0
+data:ModernContemporaryArt,Modern - contemporary art,dt:CulturalTheme,0
+data:Music,Music,dt:CulturalTheme,0
+data:MusicalInstrumentMaking,Musical instrument making,dt:CulturalTheme,0
+data:NationalDay14July,National day - 14 july,dt:EntertainmentAndEventTheme,0
+data:NaturalSciences,Natural sciences,dt:CulturalTheme,0
+data:NatureAndEnvironment,Nature and environment,dt:CulturalTheme,0
+data:NatureFair,Nature fair,dt:EntertainmentAndEventTheme,0
+data:NauticalFair,Nautical fair,dt:EntertainmentAndEventTheme,0
+data:NeedleWork,Needle work,dt:CulturalTheme,0
+data:Observatory,Observatory,dt:CulturalTheme,0
+data:Oenology,"Oenology, wine",dt:CulturalTheme,0
+data:Ornythology,Ornythology,dt:CulturalTheme,0
+data:PainterHouse,Painter house,dt:CulturalTheme,0
+data:PaintingGraphicArts,"Painting, graphic arts",dt:CulturalTheme,0
+data:LabelRating_AccueilPaysan,Accueil Paysan,dt:LabelRating,0
+data:LabelRating_AccueilVelo,Accueil Vélo,dt:LabelRating,0
+data:LabelRating_AubergeDeVillage,Auberge de Village,dt:LabelRating,0
+data:LabelRating_BienvenueaLaFerme,Bienvenue à la ferme,dt:LabelRating,0
+data:LabelRating_BistrotGourmand,Bistrot Gourmand,dt:LabelRating,0
+data:LabelRating_CampingQualite,Camping Qualité,dt:LabelRating,0
+data:LabelRating_ChambreDhotesReference,Chambre d'hôtes référence,dt:LabelRating,0
+data:LabelRating_ChefsDoeuvreDuPatrimoineMondial,Chefs-d'oeuvre du patrimoine mondial,dt:LabelRating,0
+data:LabelRating_ChouetteNature,Chouette Nature,dt:LabelRating,0
+data:LabelRating_CityBreakConfort,City Break Confort,dt:LabelRating,0
+data:LabelRating_CityBreakLuxury,City Break Luxury,dt:LabelRating,0
+data:LabelRating_CityBreakPremium,City Break Premium,dt:LabelRating,0
+data:LabelRating_ClefVerte,Clef Verte,dt:LabelRating,0
+data:LabelRating_CoastlandPreservationArea,Coastland preservation area,dt:LabelRating,0
+data:LabelRating_CommuneTouristique,Commune touristique,dt:LabelRating,0
+data:LabelRating_CuisinerieGourmande,Cuisinerie gourmande,dt:LabelRating,0
+data:LabelRating_CyclingAndWheelchairPath,Cycling and wheelchair path,dt:LabelRating,0
+data:LabelRating_CyclingRoute,Cycling route,dt:LabelRating,0
+data:LabelRating_DepartementMapOfHikingAndWalkingPaths,Département map of hiking and walking paths,dt:LabelRating,0
+data:Artotheque,Artothèque,dt:HotelAmenity,0
+data:AudioGuide,Audio guide,dt:InformativeAmenity,0
+data:Auditorium,Auditorium,dt:InformativeAmenity,0
+data:BaseRateFullRate,Base rate - full rate,dt:GenericPricingPolicy,0
+data:BeeProduct,Bee product,dt:FoodProduct,0
+data:Beer,Beer,dt:FoodProduct,0
+data:Biologics,Biologics,dt:FoodProduct,0
+data:BiscuitsPastry,Biscuits or pastry,dt:FoodProduct,0
+data:Bread,Bread,dt:FoodProduct,0
+data:Breakfast,Breakfast,dt:HotelPricingPolicy,0
+data:CanningIndustry,Canning industry,dt:FoodProduct,0
+data:Caviar,Caviar,dt:FoodProduct,0
+data:CerealsAndProducts,Cereals and products,dt:FoodProduct,0
+data:Cheese,Cheese,dt:FoodProduct,0
+data:ChildRate,Child rate,dt:GenericPricingPolicy,0
+data:Cider,Cider,dt:FoodProduct,0
+data:CondimentSpices,"Condiment, spices",dt:FoodProduct,0
+data:ConfectioneryChocolateSweets,Confectionery - chocolate - sweets,dt:FoodProduct,0
+data:CrepesAndGalettes,Crêpes et galettes,dt:FoodProduct,0
+data:Cured,Cured,dt:FoodProduct,0
+data:DairyProducts,Dairy products,dt:FoodProduct,0
+data:Dental,Dental,dt:HealthTheme,0
+data:DocumentationPlan,Documentation - plan,dt:InformativeAmenity,0
+data:DoubleRoomWithBreakfast,Double room with breakfast,dt:HotelPricingPolicy,0
+data:ExtraCharge,Extra charge,dt:GenericPricingPolicy,0
+data:ExtraCharge,Reduced rate,dt:GenericPricingPolicy,0
+data:Fish,Fish,dt:FoodProduct,0
+data:FoieGras,Foie gras,dt:FoodProduct,0
+data:Free,Free,dt:GenericPricingPolicy,0
+data:Fruit,Fruit,dt:FoodProduct,0
+data:FruitJuice,Fruit juice,dt:FoodProduct,0
+data:OilFiredHeating,Oil-fired heating,dt:AccommodationAmenity,0
+data:OnePerson,One person,dt:AccommodationPricingPolicy,0
+data:Overnight,Overnight,dt:AccommodationPricingPolicy,0
+data:Paddling,Paddling,dt:AccommodationAmenity,0
+data:Phone,Phone,dt:AccommodationAmenity,0
+data:PostalService,Postal service,dt:AccommodationAmenity,0
+data:PrivateBathroom,Private bathroom,dt:AccommodationAmenity,0
+data:PrivateDiningRoom,Private dining room,dt:AccommodationAmenity,0
+data:PrivateDryer,Private dryer,dt:AccommodationAmenity,0
+data:PrivateGarage,Private garage,dt:AccommodationAmenity,0
+data:PrivateShower,Private shower,dt:AccommodationAmenity,0
+data:PrivateTerrace,Private terrace,dt:AccommodationAmenity,0
+data:PrivateWasher,Private washer,dt:AccommodationAmenity,0
+data:Radio,Radio,dt:AccommodationAmenity,0
+data:RoomService,Room service,dt:AccommodationAmenity,0
+data:Safe,Safe,dt:AccommodationAmenity,0
+data:Sandpit,Sandpit,dt:AccommodationAmenity,0
+data:Sauna,Sauna,dt:AccommodationAmenity,0
+data:Seminar,Seminar,dt:AccommodationAmenity,0
+data:SeparateEntrance,Separate entrance,dt:AccommodationAmenity,0
+data:SeparateGarden,Separate garden,dt:AccommodationAmenity,0
+data:SharedBathroom,Shared bathroom,dt:AccommodationAmenity,0
+data:SharedDryer,Shared dryer,dt:AccommodationAmenity,0
+data:SharedGarden,Shared garden,dt:AccommodationAmenity,0
+data:SharedShower,Shared shower,dt:AccommodationAmenity,0
+data:SharedWasher,Shared washer,dt:AccommodationAmenity,0
+data:SheetsAndTowels,Sheets and towels,dt:AccommodationAmenity,0
+data:Shower,Shower,dt:AccommodationAmenity,0
+data:SkiRoom,Ski room,dt:AccommodationAmenity,0
+data:SnackBar,Snack,dt:AccommodationAmenity,0
+data:SportRoom,Sport room,dt:AccommodationAmenity,0
+data:Stereo,Stereo,dt:AccommodationAmenity,0
+data:TakeAwayLunchBox,Take away lunch box,dt:AccommodationAmenity,0
+data:Television,Television,dt:AccommodationAmenity,0
+data:TennisCourt,Tennis court,dt:AccommodationAmenity,0
+data:Terrace,Terrace,dt:AccommodationAmenity,0
+data:TerraceBalcony,Terrace balcony,dt:AccommodationAmenity,0
+data:ThreePeople,Three people,dt:AccommodationPricingPolicy,0
+data:TowelDryer,Towel dryer,dt:AccommodationAmenity,0
+data:TVRoomArea,TV room or area,dt:AccommodationAmenity,0
+data:TvSocket,Tv socket,dt:AccommodationAmenity,0
+data:TwoPeopleBAndB,Two people,dt:AccommodationPricingPolicy,0
+data:Vacuum,Vacuum,dt:AccommodationAmenity,0
+data:Washrooms,Washrooms,dt:AccommodationAmenity,0
+data:WaterConnections,Water connections,dt:AccommodationAmenity,0
+data:Weekend,Weekend,dt:AccommodationPricingPolicy,0
+data:WeekendRental2NightsHighSeason,Weekend rental (2 nights) high season,dt:AccommodationPricingPolicy,0
+data:WeekendRental2NightsLowSeason,Weekend rental (2 nights) low season,dt:AccommodationPricingPolicy,0
+data:WeekendRental2NightsMidSeason,Weekend rental (2 nights) mid season,dt:AccommodationPricingPolicy,0
+data:WeekendRental2NightsVeryHighSeason,Weekend rental (2 nights) very high season,dt:AccommodationPricingPolicy,0
+data:WorldWetlandsDay,World wetlands day,dt:EntertainmentAndEventTheme,0
+data:LabelRating_DestinationPourTous,Destination pour tous,dt:LabelRating,0
+data:LabelRating_DestinationRando,Destination Rando,dt:LabelRating,0
+data:LabelRating_EcoJardin,Eco Jardin,dt:LabelRating,0
+data:LabelRating_EcolabelEuropeen,Ecolabel européen,dt:LabelRating,0
+data:LabelRating_EducationTrail,Educational trail,dt:LabelRating,0
+data:LabelRating_FamilleFamily,Famille Family,dt:LabelRating,0
+data:LabelRating_FamillePlus,Famille plus,dt:LabelRating,0
+data:LabelRating_FleursDeSoleil,Fleurs de Soleil,dt:LabelRating,0
+data:LabelRating_FrenchHikingFederation,French hiking federation,dt:LabelRating,0
+data:LabelRating_GeoparcMondialUnesco,Géoparc Mondial UNESCO,dt:LabelRating,0
+data:LabelRating_GitesDeFrance,Gîtes de France,dt:LabelRating,0
+data:LabelRating_GitesDenfants,Gîtes d'enfants,dt:LabelRating,0
+data:LabelRating_GitesPanda,Gîtes Panda,dt:LabelRating,0
+data:LabelRating_GrandeRandonneeLongDistanceFootpath,Grande Randonnée (GR) long-distance footpath,dt:LabelRating,0
+data:LabelRating_GrandSiteDeFrance,Grand Site de France,dt:LabelRating,0
+data:LabelRating_HebergementPeche,Hébergement Pêche,dt:LabelRating,0
+data:LabelRating_HotellerieDeFrance,Hôtellerie de France,dt:LabelRating,0
+data:LabelRating_ItineraireCulturelDuConseilDeLeurope,Itinéraire culturel du conseil de l'Europe,dt:LabelRating,0
+data:LabelRating_ListedSite,Listed site,dt:LabelRating,0
+data:LabelRating_LivingHeritageEnterprise,Living Heritage Enterprise,dt:LabelRating,0
+data:LabelRating_LogisDexception,Logis d'exception,dt:LabelRating,0
+data:LabelRating_MaisonDesIllustres,Maison des Illustres (Homes of Famous People),dt:LabelRating,0
+data:LabelRating_MaisonFamilialeDeVacances,Maison familiale de vacances,dt:LabelRating,0
+data:LabelRating_MaitreCuisinierDeFrance,Maître Cuisinier de France,dt:LabelRating,0
+data:LabelRating_MaitreRestaurateur,Maître Restaurateur,dt:LabelRating,0
+data:LabelRating_MonumentHistorique,Monument Historique,dt:LabelRating,0
+data:LabelRating_Natura2000,Natura 2000,dt:LabelRating,0
+data:LabelRating_NaturalReserve,Natural reserve,dt:LabelRating,0
+data:LabelRating_NaturalZoneOfEcologicalInterestFaunaAndFlora,"Natural zone of ecological interest, fauna and flora (ZNIEFF)",dt:LabelRating,0
+data:LabelRating_NaturePath,Nature path,dt:LabelRating,0
+data:LabelRating_NFEnvironnement,NF environnement,dt:LabelRating,0
+data:LabelRating_Palace,Palace,dt:LabelRating,0
+data:LabelRating_ParcNaturelNational,Parc Naturel National,dt:LabelRating,0
+data:LabelRating_ParcNaturelRegional,Parc Naturel Régional,dt:LabelRating,0
+data:LabelRating_ParcResidentielDeLoisirs,Parc résidentiel de loisirs,dt:LabelRating,0
+data:LabelRating_PatrimoineMondialUnesco,UNESCO world's heritage,dt:LabelRating,0
+data:LabelRating_PavillonBleu,Pavillon bleu,dt:LabelRating,0
+data:LabelRating_PetitesCitesDeCaractere,Petites cités de caractère,dt:LabelRating,0
+data:LabelRating_PlusBeauxDetoursDeFrance,Plus Beaux Détours de France,dt:LabelRating,0
+data:LabelRating_PlusBeauxVillagesDeFrance,Plus Beaux Villages de France,dt:LabelRating,0
+data:LabelRating_ProtectedSite,Protected site,dt:LabelRating,0
+data:LabelRating_QualiteTourisme,Qualité Tourisme,dt:LabelRating,0
+data:LabelRating_RandoAccueil,Rando Accueil,dt:LabelRating,0
+data:LabelRating_RegionalLongDistanceFootpath,Regional long-distance footpath (GRP),dt:LabelRating,0
+data:LabelRating_ReserveNaturelleNationale,Réserve naturelle nationale,dt:LabelRating,0
+data:LabelRating_ReserveNaturelleRegionale,Réserve naturelle régionale,dt:LabelRating,0
+data:LabelRating_ReservesDeCorse,Réserves de Corse,dt:LabelRating,0
+data:LabelRating_SitesRemarquablesDuGout,Sites Remarquables du Goût,dt:LabelRating,0
+data:LabelRating_StationDeTourisme,Station de tourisme,dt:LabelRating,0
+data:FullBoard,Full board,dt:HotelPricingPolicy,0
+data:GeneralInformation,General information,dt:InformativeAmenity,0
+data:Group,Group,dt:GenericPricingPolicy,0
+data:HalfPension,Half pension,dt:HotelPricingPolicy,0
+data:Home,Reception desk,dt:InformativeAmenity,0
+data:IceCream,IceCream,dt:FoodProduct,0
+data:InformationSign,Information sign,dt:InformativeAmenity,0
+data:Jam,Jam,dt:FoodProduct,0
+data:Meat,Meat,dt:FoodProduct,0
+data:Medecine,Medecine,dt:HealthTheme,0
+data:MushroomAndTruffle,Mushroom,dt:FoodProduct,0
+data:NewYearSEve,New year's eve,dt:EntertainmentAndEventTheme,0
+data:Nuts,Nuts,dt:FoodProduct,0
+data:Oil,Oil,dt:FoodProduct,0
+data:Pharmacy,Pharmacy,dt:HealthTheme,0
+data:Pie,Pie,dt:FoodProduct,0
+data:PlantsAndProducts,Plants and products,dt:FoodProduct,0
+data:PoultryEggs,Poultry - eggs,dt:FoodProduct,0
+data:PricePerRoom,Price per room,dt:HotelPricingPolicy,0
+data:Restaurant,Restaurant,dt:HotelAmenity,0
+data:Rum,Rum,dt:FoodProduct,0
+data:Saffron,Saffron,dt:FoodProduct,0
+data:SailingTourDeFrance,Sailing tour de france,dt:EntertainmentAndEventTheme,0
+data:SaintNicholasDay,Saint Nicholas Day,dt:EntertainmentAndEventTheme,0
+data:Salad,Salad,dt:FoodProduct,0
+data:Sandwich,Sandwich,dt:FoodProduct,0
+data:ScienceFair,Science fair,dt:EntertainmentAndEventTheme,0
+data:SeaFood,Sea food,dt:FoodProduct,0
+data:Seaweed,Seaweed,dt:FoodProduct,0
+data:SelfService,Self service,dt:HotelAmenity,0
+data:Snails,Snails,dt:FoodProduct,0
+data:Spirits,Spirits,dt:FoodProduct,0
+data:SpringPoetryFestival,Spring poetry festival,dt:EntertainmentAndEventTheme,0
+data:StJohnsEve,St John's Eve,dt:EntertainmentAndEventTheme,0
+data:Syrup,Syrup,dt:FoodProduct,0
+data:Tapas,Tapas,dt:FoodProduct,0
+data:Telethon,Telethon,dt:EntertainmentAndEventTheme,0
+data:ThermalBaths,Thermal baths,dt:HealthTheme,0
+data:Tobacco,Tobacco,dt:FoodProduct,0
+data:TouristInformation,Tourist information,dt:InformativeAmenity,0
+data:Tripe,"Tripes, offal",dt:FoodProduct,0
+data:Truffle,Truffle,dt:FoodProduct,0
+data:ValentineSDay,Valentine's day,dt:EntertainmentAndEventTheme,0
+data:Vegetable,Vegetable,dt:FoodProduct,0
+data:VideoRoom,Video room,dt:InformativeAmenity,0
+data:VideoTerminal,Video terminal,dt:InformativeAmenity,0
+data:Water,Water,dt:FoodProduct,0
+data:Wine,Wine,dt:FoodProduct,0
+data:WorldEnvironmentDay,World environment day,dt:EntertainmentAndEventTheme,0
+data:WorldOceansDay,World oceans day,dt:EntertainmentAndEventTheme,0
+data:PerformingArts,Performing arts,dt:CulturalTheme,0
+data:Perfumery,Perfumery,dt:CulturalTheme,0
+data:Philately,Philately,dt:CulturalTheme,0
+data:Photography,Photography,dt:CulturalTheme,0
+data:Planetarium,Planetarium,dt:CulturalTheme,0
+data:PlantsAndFlower,Plants and flower,dt:CulturalTheme,0
+data:Poetry,Poetry,dt:CulturalTheme,0
+data:PopRockMusic,Pop rock music,dt:CulturalTheme,0
+data:PopularArtsAndTraditions,Popular arts and traditions,dt:CulturalTheme,0
+data:PopularMusic,Popular music,dt:CulturalTheme,0
+data:Postcard,Postcard,dt:CulturalTheme,0
+data:Pottery,Pottery,dt:CulturalTheme,0
+data:Prehistory,Prehistory,dt:CulturalTheme,0
+data:Puppet,Puppet,dt:CulturalTheme,0
+data:RegionalLanguage,Regional language,dt:CulturalTheme,0
+data:Religion,Religion,dt:CulturalTheme,0
+data:Research,Research,dt:CulturalTheme,0
+data:RestorationProject,Restoration project,dt:CulturalTheme,0
+data:SacredArt,Sacred art,dt:CulturalTheme,0
+data:SacredMusic,Sacred music,dt:CulturalTheme,0
+data:ScaleModelling,Scale modelling,dt:CulturalTheme,0
+data:ScienceAndTechnology,Science and technology,dt:CulturalTheme,0
+data:Sculpture,Sculpture,dt:CulturalTheme,0
+data:ShowTrail,Show trail,dt:CulturalTheme,0
+data:SingingAndChoir,Singing and choir,dt:CulturalTheme,0
+data:Soap,Soap,dt:CulturalTheme,0
+data:SoapManufacture,Soap manufacture,dt:CulturalTheme,0
+data:Spirituality,Spirituality,dt:CulturalTheme,0
+data:SpiritualRetreats,Spiritual retreats,dt:CulturalTheme,0
+data:Sport,Sport,dt:CulturalTheme,0
+data:StreetArt,Street art,dt:CulturalTheme,0
+data:StreetTheatre,Street theatre,dt:CulturalTheme,0
+data:Tale,Tale,dt:CulturalTheme,0
+data:Technology,Technology,dt:CulturalTheme,0
+data:Telecommunications,Telecommunications,dt:CulturalTheme,0
+data:Textile,Textile,dt:CulturalTheme,0
+data:Theatre,Theatre,dt:CulturalTheme,0
+data:TraditionalMusic,Traditional music,dt:CulturalTheme,0
+data:TransportNetwork,Transport network,dt:CulturalTheme,0
+data:Troglodyte,Troglodyte,dt:CulturalTheme,0
+data:VerrierArt,Verrier art,dt:CulturalTheme,0
+data:Video,Video,dt:CulturalTheme,0
+data:VisualArts,Visual arts,dt:CulturalTheme,0
+data:WarMemories,War memories,dt:CulturalTheme,0
+data:WayOfStJames,Way of St James,dt:CulturalTheme,0
+data:Weaving,Weaving,dt:CulturalTheme,0
+data:Woodworking,Woodworking,dt:CulturalTheme,0
+data:Worldmusic,World music,dt:CulturalTheme,0
+data:WriterHouse,Writer house,dt:CulturalTheme,0
+data:WroughtIron,Wrought iron,dt:CulturalTheme,0
+data:OneWeek7d6nDpPers,One week 7d / 6n dp (/ pers.),dt:CollectiveAccommodationPricingPolicy,0
+data:Park,Park,dt:CampingAndCaravanningAmenity,0
+data:PicnicRoom,Picnic room,dt:CampingAndCaravanningAmenity,0
+data:Pitch,Pitch,dt:CampingAndCaravanningAmenity,0
+data:Preroman,Preroman,dt:ArchitecturalStyle,0
+data:PriceAdultDay,Price adult / day,dt:CampingPricingPolicy,0
+data:PriceAnimalDay,Price animal / day,dt:CampingPricingPolicy,0
+data:PriceCaravanDay,Price caravan / day,dt:CampingPricingPolicy,0
+data:PriceCarDay,Price car / day,dt:CampingPricingPolicy,0
+data:PriceChildDay,Price child / day,dt:CampingPricingPolicy,0
+data:PriceElectricityDay,Price electricity / day,dt:CampingPricingPolicy,0
+data:PricePerPerson,Price per person,dt:CampingPricingPolicy,0
+data:PriceTentDay,Price tent / day,dt:CampingPricingPolicy,0
+data:Religion,Religion,dt:ArchitecturalStyle,0
+data:Renaissance,Renaissance,dt:ArchitecturalStyle,0
+data:Restaurant,Restaurant,dt:CampingAndCaravanningAmenity,0
+data:Roman,Roman,dt:ArchitecturalStyle,0
+data:RVSite,RV site,dt:CampingAndCaravanningAmenity,0
+data:SelfService,Self service,dt:CampingAndCaravanningAmenity,0
+data:SelfService,Self service,dt:CateringAmenity,0
+data:SemiShaddedArea,Semi-shadded area,dt:CampingAndCaravanningAmenity,0
+data:ShaddedArea,Shadded area,dt:CampingAndCaravanningAmenity,0
+data:StorageArea,Storage area,dt:CampingAndCaravanningAmenity,0
+data:SummerAudience,Summer audience,dt:Audience,0
+data:TakeawayFoodOrMeals,Takeaway food or meals,dt:CateringAmenity,0
+data:TastingMenu,Tasting menu,dt:CateringPricingPolicy,0
+data:TentHire,Tent hire,dt:CampingAndCaravanningAmenity,0
+data:TourismLocation,Tourism location,dt:CampingAndCaravanningAmenity,0
+data:WeeklyRentalHighSeason,Weekly rental high season,dt:AccommodationPricingPolicy,0
+data:WeeklyRentalLowSeason,Weekly rental low season,dt:AccommodationPricingPolicy,0
+data:WeeklyRentalMidSeason,Weekly rental mid season,dt:AccommodationPricingPolicy,0
+data:WeeklyRentalSmallSchoolHolidays,Weekly rental small school holidays,dt:AccommodationPricingPolicy,0
+data:WeeklyRentalVeryHighSeason,Weekly rental very high season,dt:AccommodationPricingPolicy,0
+data:WeekRental,Week rental,dt:AccommodationPricingPolicy,0
+data:WinterAudience,Winter audience,dt:Audience,0
+data:Wintering,Wintering,dt:CampingAndCaravanningAmenity,0
+data:WorksCouncils,Works councils,dt:Audience,0
+data:XIIIthCentury,Xiiith century,dt:ArchitecturalStyle,0
+data:XIIthCentury,Xiith century,dt:ArchitecturalStyle,0
+data:XIthCentury,Xith century,dt:ArchitecturalStyle,0
+data:XIVthCentury,Xivth century,dt:ArchitecturalStyle,0
+data:XIXCentury,Xixth century,dt:ArchitecturalStyle,0
+data:XthCentury,Xth century,dt:ArchitecturalStyle,0
+data:XVIIIthCentury,Xviiith century,dt:ArchitecturalStyle,0
+data:XVIIthCentury,Xviith century,dt:ArchitecturalStyle,0
+data:XVIthCentury,Xvith century,dt:ArchitecturalStyle,0
+data:XVthCentury,Xvth century,dt:ArchitecturalStyle,0
+data:XXIthCentury,Xxith century,dt:ArchitecturalStyle,0
+data:XXthCentury,Xxth century,dt:ArchitecturalStyle,0
+data:YearlyPitch,Yearly pitch,dt:CampingAndCaravanningAmenity,0
+data:LabelRating_StationVerte,Station Verte,dt:LabelRating,0
+data:LabelRating_TableDePrestige,Table de prestige,dt:LabelRating,0
+data:LabelRating_TableDeTerroir,Table de terroir,dt:LabelRating,0
+data:LabelRating_TableDistinguee,Table distinguée,dt:LabelRating,0
+data:LabelRating_TableGastronomique,Table gastronomique,dt:LabelRating,0
+data:LabelRating_TourismeHandicapPictogrammeAuditif,Tourisme & Handicap pictogramme auditif,dt:LabelRating,0
+data:LabelRating_TourismeHandicapPictogrammeMental,Tourisme & Handicap pictogramme mental,dt:LabelRating,0
+data:LabelRating_TourismeHandicapPictogrammeMoteur,Tourisme & Handicap pictogramme moteur,dt:LabelRating,0
+data:LabelRating_TourismeHandicapPictogrammeVisuel,Tourisme & Handicap pictogramme visuel,dt:LabelRating,0
+data:LabelRating_Valeur,Valeur,dt:LabelRating,0
+data:LabelRating_VignoblesDecouvertes,Vignobles & Découvertes,dt:LabelRating,0
+data:LabelRating_VillageResidentielDeTourisme,Village résidentiel de tourisme,dt:LabelRating,0
+data:LabelRating_VilleOuPaysDartEtDhistoire,Ville ou Pays d'art et d'histoire,dt:LabelRating,0
+data:LabelRating_WalkingAndHikingFootpath,Walking and hiking footpath (PR),dt:LabelRating,0
+data:LabelReviewSystem_AccueilPaysan,Accueil Paysan,dt:LabelReviewSystem,0
+data:LabelReviewSystem_AccueilVelo,Accueil velo,dt:LabelReviewSystem,0
+data:LabelReviewSystem_AssociationCampingQualite,Association Camping Qualité,dt:LabelReviewSystem,0
+data:LabelReviewSystem_BienvenueaLaFerme,Bienvenue à la ferme,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ChambreDhotesReference,Chambre d'hôtes référence,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ChouetteNature,Chouette Nature,dt:LabelReviewSystem,0
+data:LabelReviewSystem_CityBreakByGitesDeFrance,City Break by Gîtes de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ClassementDesCommunesTouristiquesEtStationsClassees,Classement des communes touristiques et stations classées,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ClassementOfficielDesHebergementsTouristiques,Classement officiel des hébergements touristiques,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ClefVerte,Clef verte,dt:LabelReviewSystem,0
+data:LabelReviewSystem_CoastlandPreservationArea,Coastland preservation area,dt:LabelReviewSystem,0
+data:LabelReviewSystem_CuisinerieGourmande,Cuisinerie gourmande,dt:LabelReviewSystem,0
+data:LabelReviewSystem_CyclingAndWheelchairPath,Cycling and wheelchair path,dt:LabelReviewSystem,0
+data:LabelReviewSystem_CyclingRoute,Cycling route,dt:LabelReviewSystem,0
+data:LabelReviewSystem_DepartementMapOfHikingAndWalkingPaths,Département map of hiking and walking paths,dt:LabelReviewSystem,0
+data:LabelReviewSystem_DestinationRando,Destination Rando,dt:LabelReviewSystem,0
+data:LabelReviewSystem_EcoJardin,Eco Jardin,dt:LabelReviewSystem,0
+data:LabelReviewSystem_EcolabelEuropeen,Ecolabel européen,dt:LabelReviewSystem,0
+data:LabelReviewSystem_EducationTrail,Educational trail,dt:LabelReviewSystem,0
+data:LabelReviewSystem_FamilleFamily,Famille Family,dt:LabelReviewSystem,0
+data:LabelReviewSystem_FamillePlus,Famille plus,dt:LabelReviewSystem,0
+data:LabelReviewSystem_FederationDesParcsNaturelsRegionauxDeFrance,Fédération des Parcs Naturels Régionaux de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_FleursDeSoleil,Fleurs de soleil,dt:LabelReviewSystem,0
+data:LabelReviewSystem_FrenchHikingFederation,French hiking federation,dt:LabelReviewSystem,0
+data:LabelReviewSystem_GitesDeFrance,Gîtes de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_HebergementPeche,Hébergement Pêche,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ItinerairesCulturelsDuConseilDeLeurope,Itinéraires culturels du Conseil de l'Europe,dt:LabelReviewSystem,0
+data:LabelReviewSystem_Label,Label,dt:LabelReviewSystem,0
+data:LabelReviewSystem_LabelDestinationPourTous,Label Destination pour tous,dt:LabelReviewSystem,0
+data:LabelReviewSystem_LabelVignoblesDecouvertes,Label Vignobles & Découvertes,dt:LabelReviewSystem,0
+data:LabelReviewSystem_LabelVilleEtPaysDartEtDhistoire,Label Ville et Pays d'art et d'histoire,dt:LabelReviewSystem,0
+data:LabelReviewSystem_LesPlusBeauxDetoursDeFrance,Les Plus Beaux Détours de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_LesPlusBeauxVillagesDeFrance,Les Plus Beaux Villages de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ListedSite,Listed site,dt:LabelReviewSystem,0
+data:LabelReviewSystem_LivingHeritageEnterprise,Living Heritage Enterprise,dt:LabelReviewSystem,0
+data:LabelReviewSystem_Logis,Logis,dt:LabelReviewSystem,0
+data:HighSchool,High school,dt:PeopleAudience,0
+data:Hiker,Hiker,dt:PeopleAudience,0
+data:Hikers,Hikers,dt:PeopleAudience,0
+data:Horserider,Horserider,dt:PeopleAudience,0
+data:ItalianStyle,Italian-style,dt:ParkAndGardenTheme,0
+data:JapaneseStyle,Japanese-style,dt:ParkAndGardenTheme,0
+data:Jobseekers,Jobseekers,dt:PeopleAudience,0
+data:Journalists,Journalists,dt:PeopleAudience,0
+data:Junior,Junior,dt:PeopleAudience,0
+data:Labyrinth,Labyrinth,dt:ParkAndGardenTheme,0
+data:LandscapeGarden,Landscape garden,dt:ParkAndGardenTheme,0
+data:LargeFamilies,Large families,dt:PeopleAudience,0
+data:Less20People,Less 20 years old,dt:PeopleAudience,0
+data:LGBT,Lgbt,dt:PeopleAudience,0
+data:Lover,Lover,dt:PeopleAudience,0
+data:MedicinalPlantsSingle,Medicinal plants / single,dt:ParkAndGardenTheme,0
+data:MediteranneanGarden,Mediterannean garden,dt:ParkAndGardenTheme,0
+data:MiddleSchool,Middle school,dt:PeopleAudience,0
+data:MineralGarden,Mineral garden,dt:ParkAndGardenTheme,0
+data:Motorcyclists,Motorcyclists,dt:PeopleAudience,0
+data:Motorists,Motorists,dt:PeopleAudience,0
+data:MountainBikers,Mountain bikers,dt:PeopleAudience,0
+data:Naturists,Naturists,dt:PeopleAudience,0
+data:NurserySchool,Nursery school (under 6 yearls-old),dt:PeopleAudience,0
+data:OlfactoryGarden,Olfactory garden,dt:ParkAndGardenTheme,0
+data:Park,Park,dt:NaturalHeritageAmenity,0
+data:Park,Park,dt:ParkAndGardenTheme,0
+data:PersonWithReducedMobility,Person with reduced mobility,dt:PeopleAudience,0
+data:PicnicRoom,Picnic room,dt:NaturalHeritageAmenity,0
+data:Pilgrims,Pilgrims,dt:PeopleAudience,0
+data:PlayfulGarden,Playful garden,dt:ParkAndGardenTheme,0
+data:PleasureGarden,Pleasure garden,dt:ParkAndGardenTheme,0
+data:PriestMonastic,Priest / monastic,dt:ParkAndGardenTheme,0
+data:PrimarySchool,Primary school (y2 to y6 for gb - 1st gr to 5th gr for us),dt:PeopleAudience,0
+data:PrivateGarden,Private garden,dt:ParkAndGardenTheme,0
+data:Professionals,Professionals,dt:PeopleAudience,0
+data:ProtectedGarden,Protected garden,dt:ParkAndGardenTheme,0
+data:RemarkableGarden,Remarkable garden,dt:ParkAndGardenTheme,0
+data:School,School,dt:PeopleAudience,0
+data:Seminar,Seminar,dt:PeopleAudience,0
+data:Singles,Singles,dt:PeopleAudience,0
+data:Solo,Solo,dt:PeopleAudience,0
+data:SpaClient,Spa client,dt:PeopleAudience,0
+data:Sportsmen,Sportsmen,dt:PeopleAudience,0
+data:Students,Students,dt:PeopleAudience,0
+data:Surfer,Surfer,dt:PeopleAudience,0
+data:Terrace,Terrace,dt:ParkAndGardenTheme,0
+data:ThermalPark,Thermal park,dt:ParkAndGardenTheme,0
+data:VegetableGarden,Vegetable garden,dt:ParkAndGardenTheme,0
+data:ViewpointIndicator,Viewpoint indicator,dt:NaturalHeritageAmenity,0
+data:LabelReviewSystem_MaisonDesIllustres,Maison des Illustres (Homes of Famous People),dt:LabelReviewSystem,0
+data:LabelReviewSystem_MaisonFamilialeDeVacances,Maison familiale de vacances,dt:LabelReviewSystem,0
+data:LabelReviewSystem_MaitresCuisiniersDeFrance,Maîtres cuisiniers de france,dt:LabelReviewSystem,0
+data:LabelReviewSystem_MaitresRestaurateurs,Maîtres Restaurateurs,dt:LabelReviewSystem,0
+data:LabelReviewSystem_MarqueAccueilVelo,Marque Accueil Vélo,dt:LabelReviewSystem,0
+data:LabelReviewSystem_MarqueTourismeEtHandicap,Marque Tourisme et Handicap,dt:LabelReviewSystem,0
+data:LabelReviewSystem_Natura2000,Natura 2000,dt:LabelReviewSystem,0
+data:LabelReviewSystem_NaturalReserve,Natural reserve,dt:LabelReviewSystem,0
+data:LabelReviewSystem_NaturalZoneOfEcologicalInterestFaunaAndFlora,"Natural zone of ecological interest, fauna and flora (ZNIEFF)",dt:LabelReviewSystem,0
+data:LabelReviewSystem_NaturePath,Nature path,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ParcResidentielDeLoisirs,Parc résidentiel de loisirs,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ParcsNationauxDeFrance,Parcs Nationaux de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_PavillonBleu,Pavillon bleu,dt:LabelReviewSystem,0
+data:LabelReviewSystem_PetitesCitesDeCaractere,Petites cités de caractère,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ProtectedSite,Protected site,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ProtectionMonumentHistorique,Protection Monument Historique,dt:LabelReviewSystem,0
+data:LabelReviewSystem_QualiteTourisme,Qualité Tourisme,dt:LabelReviewSystem,0
+data:LabelReviewSystem_RandoAccueil,Rando Accueil,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ReseauDesGrandsSitesDeFrance,Réseau des Grands sites de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_ReserveNaturelleDeFrance,Réserve naturelle de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_SitesRemarquablesDuGout,Sites remarquables du goût,dt:LabelReviewSystem,0
+data:LabelReviewSystem_StationsVertes,Stations Vertes,dt:LabelReviewSystem,0
+data:LabelReviewSystem_TablesEtAubergesDeFrance,Tables et Auberges de France,dt:LabelReviewSystem,0
+data:LabelReviewSystem_UNESCO,UNESCO,dt:LabelReviewSystem,0
+data:LabelReviewSystem_VillageResidentielDeTourisme,Village résidentiel de tourisme,dt:LabelReviewSystem,0
+data:Adults,Adults,dt:PeopleAudience,0
+data:Alpine,Alpine,dt:ParkAndGardenTheme,0
+data:Arboretum,Arboretum,dt:ParkAndGardenTheme,0
+data:BetweenFriends,Between friends,dt:PeopleAudience,0
+data:BotanicalGarden,Botanical garden,dt:ParkAndGardenTheme,0
+data:BusinessTourist,Business tourist,dt:PeopleAudience,0
+data:Children,Children,dt:PeopleAudience,0
+data:CollectionOfPlants,Collection of plants,dt:ParkAndGardenTheme,0
+data:Conservatory,Conservatory,dt:ParkAndGardenTheme,0
+data:Contemporary,Contemporary,dt:ParkAndGardenTheme,0
+data:Couples,Couples,dt:PeopleAudience,0
+data:CreativeGardener,Creative gardener,dt:ParkAndGardenTheme,0
+data:CycleTourist,Cycle tourist,dt:PeopleAudience,0
+data:Cyclists,Cyclists,dt:PeopleAudience,0
+data:Disabled,Disabled,dt:PeopleAudience,0
+data:EcoTourist,Eco-tourist,dt:PeopleAudience,0
+data:EnglishStyle,English-style,dt:ParkAndGardenTheme,0
+data:ExoticGarden,Exotic garden,dt:ParkAndGardenTheme,0
+data:Families,Families,dt:PeopleAudience,0
+data:Fishermen,Fishermen,dt:PeopleAudience,0
+data:FloralPark,Floral park,dt:ParkAndGardenTheme,0
+data:FrenchStyle,French-style,dt:ParkAndGardenTheme,0
+data:Gastronomist,Gastronomist,dt:PeopleAudience,0
+data:Golfers,Golfers,dt:PeopleAudience,0
+data:GreenhouseAndOrangery,Greenhouse and orangery,dt:ParkAndGardenTheme,0
+data:Amphitheater,Amphitheater,dt:RoomAmenity,0
+data:Archery,Archery,dt:SportsTheme,0
+data:AtAFarm,At A Farm,dt:SpatialEnvironmentTheme,0
+data:Athletics,Athletics,dt:SportsTheme,0
+data:AtTheVineyard,At The Vineyard,dt:SpatialEnvironmentTheme,0
+data:ATV,Atv,dt:SportsTheme,0
+data:AuditoriumConfiguration,Auditorium configuration,dt:RoomLayout,0
+data:Automobile,Automobile,dt:SportsTheme,0
+data:Badminton,Badminton,dt:SportsTheme,0
+data:BanquetConfiguration,Banquet configuration,dt:RoomLayout,0
+data:BoardroomConfiguration,Boardroom configuration,dt:RoomLayout,0
+data:Box,Box,dt:RoomAmenity,0
+data:ByTheSea,By The Sea,dt:SpatialEnvironmentTheme,0
+data:CityOutskirts,City Outskirts,dt:SpatialEnvironmentTheme,0
+data:ClassroomConfiguration,Classroom configuration,dt:RoomLayout,0
+data:CloseToShops,Close To Shops,dt:SpatialEnvironmentTheme,0
+data:DirectSkiAccess,Direct Ski Access,dt:SpatialEnvironmentTheme,0
+data:Downtown,Downtown,dt:SpatialEnvironmentTheme,0
+data:EquippedMeetingRoom,Equipped meeting room,dt:RoomAmenity,0
+data:ExhibitionHall,Exhibition hall,dt:RoomAmenity,0
+data:FacingTheSea,Facing The Sea,dt:SpatialEnvironmentTheme,0
+data:HSquareConfiguration,H-square configuration,dt:RoomLayout,0
+data:InAHamlet,In A Hamlet,dt:SpatialEnvironmentTheme,0
+data:InAPedestrianArea,In A Pedestrian area,dt:SpatialEnvironmentTheme,0
+data:InARemoteLocation,In A Remote Location,dt:SpatialEnvironmentTheme,0
+data:InTheCountryside,In The Countryside,dt:SpatialEnvironmentTheme,0
+data:InTheForest,In The Forest,dt:SpatialEnvironmentTheme,0
+data:InTheHighMountains,In The High Mountains,dt:SpatialEnvironmentTheme,0
+data:InTheMountains,In The Mountains,dt:SpatialEnvironmentTheme,0
+data:InTheVillage,In The Village,dt:SpatialEnvironmentTheme,0
+data:InTown,In Town,dt:SpatialEnvironmentTheme,0
+data:NearARiverOrStream,Near A River Or Stream,dt:SpatialEnvironmentTheme,0
+data:PerDay,Per day,dt:PricingMode,0
+data:PerPerson,Per person,dt:PricingMode,0
+data:PerWeek,Per week,dt:PricingMode,0
+data:ProjectionRoom,Projection room,dt:RoomAmenity,0
+data:ReceptionConfiguration,Reception configuration,dt:RoomLayout,0
+data:ReceptionRoom,Reception room,dt:RoomAmenity,0
+data:ResortCentre,Resort Centre,dt:SpatialEnvironmentTheme,0
+data:Room,Room,dt:RoomAmenity,0
+data:SeminarRoom,Seminar room,dt:RoomAmenity,0
+data:SubscriptionPackage,Subscription - package,dt:PricingMode,0
+data:Teenagers,Teenagers,dt:PeopleAudience,0
+data:TheaterConfiguration,Theater configuration,dt:RoomLayout,0
+data:ThirdAge,Senior,dt:PeopleAudience,0
+data:UnspecifiedConfiguration,Unspecified configuration,dt:RoomLayout,0
+data:UShapeConfiguration,U-shape configuration,dt:RoomLayout,0
+data:Walkers,Walkers,dt:PeopleAudience,0
+data:WaterGarden,Water garden,dt:ParkAndGardenTheme,0
+data:ScaleRating_1arobace,1@,dt:ScaleRating,0
+data:ScaleRating_1Cheminee,1 cheminée,dt:ScaleRating,0
+data:ScaleRating_1Cle,1 Clé,dt:ScaleRating,0
+data:ScaleRating_1Cocotte,1 cocotte,dt:ScaleRating,0
+data:ScaleRating_1epi,1 épi,dt:ScaleRating,0
+data:ScaleRating_1etoile,1 étoile,dt:ScaleRating,0
+data:ScaleRating_1Fleur,1 fleur,dt:ScaleRating,0
+data:ScaleRating_2arobace,2@,dt:ScaleRating,0
+data:ScaleRating_2Cheminees,2 cheminées,dt:ScaleRating,0
+data:ScaleRating_2Cles,2 Clés,dt:ScaleRating,0
+data:ScaleRating_2Cocottes,2 cocottes,dt:ScaleRating,0
+data:ScaleRating_2epis,2 épis,dt:ScaleRating,0
+data:ScaleRating_2etoiles,2 étoiles,dt:ScaleRating,0
+data:ScaleRating_2Fleurs,2 fleurs,dt:ScaleRating,0
+data:ScaleRating_3arobace,3@,dt:ScaleRating,0
+data:ScaleRating_3Cheminees,3 cheminées,dt:ScaleRating,0
+data:ScaleRating_3Cles,3 Clés,dt:ScaleRating,0
+data:ScaleRating_3Cocottes,3 cocottes,dt:ScaleRating,0
+data:ScaleRating_3epis,3 épis / Confort,dt:ScaleRating,0
+data:ScaleRating_3etoiles,3 étoiles,dt:ScaleRating,0
+data:ScaleRating_3Fleurs,3 fleurs,dt:ScaleRating,0
+data:ScaleRating_4arobace,4@,dt:ScaleRating,0
+data:ScaleRating_4Cles,4 Clés,dt:ScaleRating,0
+data:ScaleRating_4epis,4 épis / Premium,dt:ScaleRating,0
+data:ScaleRating_4etoiles,4 étoiles,dt:ScaleRating,0
+data:ScaleRating_4Fleurs,4 fleurs,dt:ScaleRating,0
+data:ScaleRating_5arobace,5@,dt:ScaleRating,0
+data:ScaleRating_5Cles,5 Clés,dt:ScaleRating,0
+data:ScaleRating_5epis,5 épis / Luxury,dt:ScaleRating,0
+data:ScaleRating_5etoiles,5 étoiles,dt:ScaleRating,0
+data:ScaleRating_Categorie1,Catégorie 1,dt:ScaleRating,0
+data:ScaleRating_Categorie2,Catégorie 2,dt:ScaleRating,0
+data:ScaleRating_Categorie3,Catégorie 3,dt:ScaleRating,0
+data:ScaleRating_luxury,Luxe,dt:ScaleRating,0
+data:ScaleReviewSystem_ClassementOfficielDesHebergementsTouristiques,Classement officiel des hébergements touristiques,dt:ScaleReviewSystem,0
+data:ScaleReviewSystem_ClassementOfficielDesLocaltouristoffice,Classement officiel des Local Tourist Offices,dt:ScaleReviewSystem,0
+data:ScaleReviewSystem_Clevacances,Clévacances,dt:ScaleReviewSystem,0
+data:ScaleReviewSystem_GitesDeFrance,Gîtes de France,dt:ScaleReviewSystem,0
+data:ScaleReviewSystem_LabelNationalSVillesEtVillagesInternet,"Label National s, Villes et Villages Internet",dt:ScaleReviewSystem,0
+data:ScaleReviewSystem_Logis,Logis,dt:ScaleReviewSystem,0
+data:ScaleReviewSystem_VillesEtVillagesFleuris,Villes et Villages Fleuris,dt:ScaleReviewSystem,0
+data:6PinBowling,6-pin bowling,dt:SportsTheme,0
+data:6PinBowling,Remarkable,dt:SportsTheme,0
+data:8PinBowling,8-pin bowling,dt:SportsTheme,0
+data:9PinBowling,9-pin bowling,dt:SportsTheme,0
+data:AdventureCourse,Adventure course,dt:SportsTheme,0
+data:AirSports,Air sports,dt:SportsTheme,0
+data:AlpineSkiing,Alpine skiing,dt:SportsTheme,0
+data:AmericanFootball,American football,dt:SportsTheme,0
+data:Gliding,Gliding,dt:SportsTheme,0
+data:Golf,Golf,dt:SportsTheme,0
+data:Gymnastics,Gymnastics,dt:SportsTheme,0
+data:Gyropode,Gyropode,dt:SportsTheme,0
+data:Handball,Handball,dt:SportsTheme,0
+data:HangGliding,Hang gliding,dt:SportsTheme,0
+data:Helicopter,Helicopter,dt:SportsTheme,0
+data:Hiking,Hiking,dt:SportsTheme,0
+data:Hitch,Hitch,dt:SportsTheme,0
+data:HorseDrawnCarriageRide,Horse-drawn carriage ride,dt:SportsTheme,0
+data:HorseDriving,Horse driving,dt:SportsTheme,0
+data:HorseRacing,Horse racing,dt:SportsTheme,0
+data:HorseSkijoring,Horse skijoring,dt:SportsTheme,0
+data:HotAirBalloon,Hot-air balloon,dt:SportsTheme,0
+data:Hunting,Hunting,dt:SportsTheme,0
+data:Hydrospeed,Hydrospeed,dt:SportsTheme,0
+data:IceDriving,Ice driving,dt:SportsTheme,0
+data:Icehockey,Icehockey,dt:SportsTheme,0
+data:IceSkating,Ice skating,dt:SportsTheme,0
+data:JetSki,Jet ski,dt:SportsTheme,0
+data:Karaoke,Karaoke,dt:SportsTheme,0
+data:Karting,Karting,dt:SportsTheme,0
+data:Kite,Kite,dt:SportsTheme,0
+data:Kitesurfing,Kitesurfing,dt:SportsTheme,0
+data:LaserGame,Laser game,dt:SportsTheme,0
+data:MartialArts,Martial arts,dt:SportsTheme,0
+data:Monoski,Monoski,dt:SportsTheme,0
+data:MotoCross,Motocross,dt:SportsTheme,0
+data:Motorbike,Motorbike,dt:SportsTheme,0
+data:MotorizedHouseboat,Motorized houseboat,dt:SportsTheme,0
+data:MotorScooter,Motor scooter,dt:SportsTheme,0
+data:Motorsports,Motorsports,dt:SportsTheme,0
+data:Mountaineering,Mountaineering,dt:SportsTheme,0
+data:MountainGuide,Mountain guide,dt:SportsTheme,0
+data:Multisport,Multisport,dt:SportsTheme,0
+data:Nautisme,Nautisme,dt:SportsTheme,0
+data:NordicWalking,Nordic walking,dt:SportsTheme,0
+data:Orienteering,Orienteering,dt:SportsTheme,0
+data:Paddleboat,Paddleboat,dt:SportsTheme,0
+data:padel,Padel,dt:SportsTheme,0
+data:Paintball,Paintball,dt:SportsTheme,0
+data:Paragliding,Paragliding,dt:SportsTheme,0
+data:Paramotoring,Paramotoring,dt:SportsTheme,0
+data:Parasailing,Parasailing,dt:SportsTheme,0
+data:Pedestrian,Pedestrian,dt:SportsTheme,0
+data:Pilates,Pilates,dt:SportsTheme,0
+data:PingPong,Table tennis,dt:SportsTheme,0
+data:Pirogue,Pirogue,dt:SportsTheme,0
+data:PleasureBoating,Pleasure boating,dt:SportsTheme,0
+data:Polo,Polo,dt:SportsTheme,0
+data:PonyRide,Pony ride,dt:SportsTheme,0
+data:PowerBoating,Power boating,dt:SportsTheme,0
+data:6PinBowling,6-pin bowling,dt:Theme,0
+data:6PinBowling,Remarkable,dt:Theme,0
+data:CaliforniaKingBed,California king bed,dt:TypeOfBed,0
+data:CollaborativeTourism,Collaborative tourism,dt:Theme,0
+data:Cot,Cot,dt:TypeOfBed,0
+data:Daycare,Daycare,dt:Theme,0
+data:DoubleBed,Double bed,dt:TypeOfBed,0
+data:KingSizeBed,King size bed,dt:TypeOfBed,0
+data:Loop,Loop itinerary,dt:TourType,0
+data:Night,Nocturne,dt:Theme,0
+data:NotToBeMissed,Not to be missed,dt:Theme,0
+data:OlympicQueenBed,Olympic queen bed,dt:TypeOfBed,0
+data:OpenJaw,Open jaw itinerary,dt:TourType,0
+data:PrivatePlane,Private plane,dt:SportsTheme,0
+data:Quad,Quad,dt:SportsTheme,0
+data:QueenSizeBed,Queen size bed,dt:TypeOfBed,0
+data:Rafting,Rafting,dt:SportsTheme,0
+data:RailBike,Rail bike,dt:SportsTheme,0
+data:Riding,Riding,dt:SportsTheme,0
+data:Rollerblades,Rollerblades,dt:SportsTheme,0
+data:RopeCourse,Rope course,dt:SportsTheme,0
+data:RoundTrip,Round Trip,dt:TourType,0
+data:Rowing,Rowing,dt:SportsTheme,0
+data:Rugby,Rugby,dt:SportsTheme,0
+data:Running,Running,dt:SportsTheme,0
+data:Sailing,Sailing,dt:SportsTheme,0
+data:SandYachting,Sand yachting,dt:SportsTheme,0
+data:ScaleModelling,Scale modelling,dt:SportsTheme,0
+data:Scooter,Scooter,dt:SportsTheme,0
+data:SeaFishing,Sea fishing,dt:SportsTheme,0
+data:SeaKayaking,Sea kayaking,dt:SportsTheme,0
+data:Seaplane,Seaplane,dt:SportsTheme,0
+data:SeaScooter,Sea scooter,dt:SportsTheme,0
+data:Shooting,Shooting,dt:SportsTheme,0
+data:Simulator,Simulator,dt:SportsTheme,0
+data:SingleBed,Single bed,dt:TypeOfBed,0
+data:Skijoring,Skijoring,dt:SportsTheme,0
+data:WineLovers,Wine lovers,dt:PeopleAudience,0
+data:Yachtsman,Yachtsman,dt:PeopleAudience,0
+data:Baseball,Baseball,dt:SportsTheme,0
+data:Basketball,Basketball,dt:SportsTheme,0
+data:BasquePelota,Basque pelota,dt:SportsTheme,0
+data:Bathing,Bathing,dt:SportsTheme,0
+data:BeachVolleyball,Beach volleyball,dt:SportsTheme,0
+data:Biathlon,Biathlon,dt:SportsTheme,0
+data:BicycleTouring,Bicycle touring,dt:SportsTheme,0
+data:Bike,Bike,dt:SportsTheme,0
+data:Bobsleigh,Bobsleigh,dt:SportsTheme,0
+data:Bodyboard,Bodyboard,dt:SportsTheme,0
+data:Bodybuilding,Bodybuilding,dt:SportsTheme,0
+data:Boomerang,Boomerang,dt:SportsTheme,0
+data:Boules,Boules,dt:SportsTheme,0
+data:Boxing,Boxing,dt:SportsTheme,0
+data:Buggy,Buggy,dt:SportsTheme,0
+data:BungeeJumping,Bungee jumping,dt:SportsTheme,0
+data:CamargoStyleBullfighting,Camargo-style bullfighting,dt:SportsTheme,0
+data:CanoeingKayaking,Canoeing-kayaking,dt:SportsTheme,0
+data:Canyoning,Canyoning,dt:SportsTheme,0
+data:Carriage,Carriage,dt:SportsTheme,0
+data:Catamaran,Catamaran,dt:SportsTheme,0
+data:Caving,Caving,dt:SportsTheme,0
+data:ClayPigeonShooting,Clay-pigeon shooting,dt:SportsTheme,0
+data:Climbing,Climbing,dt:SportsTheme,0
+data:CrossCountrySkiing,Cross-country skiing,dt:SportsTheme,0
+data:Cycling,Cycling,dt:SportsTheme,0
+data:Dance,Dance,dt:SportsTheme,0
+data:Diving,Diving,dt:SportsTheme,0
+data:DogDriving,Dog driving,dt:SportsTheme,0
+data:DogSkijoring,Dog skijoring,dt:SportsTheme,0
+data:Dogsledding,Dogsledding,dt:SportsTheme,0
+data:DonkeyHiking,Donkey hiking,dt:SportsTheme,0
+data:DownhillBike,Downhill bike,dt:SportsTheme,0
+data:ElectricallyAssistedBicycle,Electrically assisted bicycle,dt:SportsTheme,0
+data:ElectricATV,Electri atv,dt:SportsTheme,0
+data:ElectricBike,Electric bike,dt:SportsTheme,0
+data:ElectricBoat,Electric boat,dt:SportsTheme,0
+data:EscapeGame,Escape game,dt:SportsTheme,0
+data:FatBike,Fat bike,dt:SportsTheme,0
+data:Fencing,Fencing,dt:SportsTheme,0
+data:Fieldhockey,Fieldhockey,dt:SportsTheme,0
+data:Fishing,Fishing,dt:SportsTheme,0
+data:Fitness,Fitness,dt:SportsTheme,0
+data:FitnessTrail,Fitness trail,dt:SportsTheme,0
+data:FlyFishing,Fly fishing,dt:SportsTheme,0
+data:Football,Football,dt:SportsTheme,0
+data:FourWheelDrive,Four-wheel drive,dt:SportsTheme,0
+data:Glider,Glider,dt:SportsTheme,0
+data:SkiTouring,Ski touring,dt:SportsTheme,0
+data:Skittles,Skittles,dt:SportsTheme,0
+data:Skwal,Skwal,dt:SportsTheme,0
+data:Skydiving,Skydiving,dt:SportsTheme,0
+data:SledDogs,Sled dogs,dt:SportsTheme,0
+data:Sledging,Sledging,dt:SportsTheme,0
+data:Snorkeling,Snorkeling,dt:SportsTheme,0
+data:Snowboarding,Snowboarding,dt:SportsTheme,0
+data:Snowkiting,Snowkiting,dt:SportsTheme,0
+data:SnowScooter,Snow scooter,dt:SportsTheme,0
+data:Snowshoes,Snowshoes,dt:SportsTheme,0
+data:SportSailing,Sport sailing,dt:SportsTheme,0
+data:Squash,Squash,dt:SportsTheme,0
+data:StandupPaddleboarding,Standup paddleboarding,dt:SportsTheme,0
+data:Stilt,Stilt,dt:SportsTheme,0
+data:SummerSkiing,Summer skiing,dt:SportsTheme,0
+data:SummerSledging,Summer sledging,dt:SportsTheme,0
+data:Surf,Surf,dt:SportsTheme,0
+data:SurfBiking,Surf biking,dt:SportsTheme,0
+data:Swimming,Swimming,dt:SportsTheme,0
+data:TeamSports,Team sports,dt:SportsTheme,0
+data:Tennis,Tennis,dt:SportsTheme,0
+data:ToroPiscine,Toro-piscine,dt:SportsTheme,0
+data:TowableTube,Towable tube,dt:SportsTheme,0
+data:Trail,Trail,dt:SportsTheme,0
+data:TreasureHunting,Treasure hunting,dt:SportsTheme,0
+data:Trial,Trial,dt:SportsTheme,0
+data:Triathlon,Triathlon,dt:SportsTheme,0
+data:Ulm,Ulm,dt:SportsTheme,0
+data:UnderwaterHiking,Underwater hiking,dt:SportsTheme,0
+data:Unusual,Unusual,dt:Theme,0
+data:ViaCordata,Via cordata,dt:SportsTheme,0
+data:ViaFerrata,Via ferrata,dt:SportsTheme,0
+data:VolleyBall,Volley ball,dt:SportsTheme,0
+data:Wakeboarding,Wakeboarding,dt:SportsTheme,0
+data:WaterPolo,Water-polo,dt:SportsTheme,0
+data:WaterSkiing,Water skiing,dt:SportsTheme,0
+data:WaveSki,Wave-ski,dt:SportsTheme,0
+data:Windsurfing,Windsurfing,dt:SportsTheme,0
+data:Wintersports,Winter sports,dt:SportsTheme,0
+data:Yoga,Yoga,dt:SportsTheme,0
+data:Zipline,Zipline,dt:SportsTheme,0
+data:Afghanistan,Afghanistan,schema:Country,0
+data:AlandIsles,Åland isles,schema:Country,0
+data:Albania,Albania,schema:Country,0
+data:Algeria,Algeria,schema:Country,0
+data:AmericanSamoa,American samoa,schema:Country,0
+data:Andorra,Andorra,schema:Country,0
+data:Angola,Angola,schema:Country,0
+data:Anguilla,Anguilla,schema:Country,0
+data:Antarctica,Antarctica,schema:Country,0
+data:AntiguaAndBarbuda,Antigua and barbuda,schema:Country,0
+data:Argentina,Argentina,schema:Country,0
+data:Armenia,Armenia,schema:Country,0
+data:Aruba,Aruba,schema:Country,0
+data:Australia,Australia,schema:Country,0
+data:Austria,Austria,schema:Country,0
+data:Azerbaijan,Azerbaijan,schema:Country,0
+data:Bahamas,Bahamas,schema:Country,0
+data:Bahrain,Bahrain,schema:Country,0
+data:Bangladesh,Bangladesh,schema:Country,0
+data:Barbados,Barbados,schema:Country,0
+data:Belarus,Belarus,schema:Country,0
+data:Belgium,Belgium,schema:Country,0
+data:Belize,Belize,schema:Country,0
+data:Benin,Benin,schema:Country,0
+data:Bermuda,Bermuda,schema:Country,0
+data:Bhutan,Bhutan,schema:Country,0
+data:BikeRoom,Bike room,dt:AccomodationAmenity,0
+data:Bolivia,Bolivia,schema:Country,0
+data:BosniaHerzegovinia,Bosnia-herzegovinia,schema:Country,0
+data:Botswana,Botswana,schema:Country,0
+data:BouvetIsland,Bouvet island,schema:Country,0
+data:Brazil,Brazil,schema:Country,0
+data:BritishVirginIslands,British virgin islands,schema:Country,0
+data:BruneiDarussalam,Brunei darussalam,schema:Country,0
+data:Bulgaria,Bulgaria,schema:Country,0
+data:BurkinaFaso,Burkina faso,schema:Country,0
+data:Burundi,Burundi,schema:Country,0
+data:CableSkiing,Cable skiing,dt:SporTheme,0
+data:Cambodia,Cambodia,schema:Country,0
+data:Cameroon,Cameroon,schema:Country,0
+data:Canada,Canada,schema:Country,0
+data:CapeVerde,Cape verde,schema:Country,0
+data:CaymanIslands,Cayman islands,schema:Country,0
+data:CentralAfricanRepublic,Central african republic,schema:Country,0
+data:Chad,Chad,schema:Country,0
+data:Chile,Chile,schema:Country,0
+data:China,China,schema:Country,0
+data:ChristmasIsland,Christmas island,schema:Country,0
+data:CocosIslands,Cocos islands,schema:Country,0
+data:Colombia,Colombia,schema:Country,0
+data:Comores,Comores,schema:Country,0
+data:Congo,Congo,schema:Country,0
+data:CongoTheDemocraticRepublicOf,"Congo, the democratic republic of",schema:Country,0
+data:CookIslands,Cook islands,schema:Country,0
+data:CostaRica,Costa rica,schema:Country,0
+data:Croatia,Croatia,schema:Country,0
+data:Cuba,Cuba,schema:Country,0
+data:Cyprus,Cyprus,schema:Country,0
+data:Malta,Malta,schema:Country,0
+data:MarshallIslands,Marshall islands,schema:Country,0
+data:Martinique,Martinique,schema:Country,0
+data:Mauritania,Mauritania,schema:Country,0
+data:Mauritius,Mauritius,schema:Country,0
+data:Mayotte,Mayotte,schema:Country,0
+data:Mexico,Mexico,schema:Country,0
+data:MicronesiaFederatedStatesOf,"Micronesia, federated states of",schema:Country,0
+data:MoldovaRepublicOf,"Moldova, republic of",schema:Country,0
+data:Monaco,Monaco,schema:Country,0
+data:Mongolia,Mongolia,schema:Country,0
+data:Montserrat,Montserrat,schema:Country,0
+data:Morrocco,Morrocco,schema:Country,0
+data:Mozambique,Mozambique,schema:Country,0
+data:MyanmarBurma,Myanmar (burma),schema:Country,0
+data:Namibia,Namibia,schema:Country,0
+data:Nauru,Nauru,schema:Country,0
+data:Nepal,Nepal,schema:Country,0
+data:NewCaledonia,New caledonia,schema:Country,0
+data:NewZealand,New zealand,schema:Country,0
+data:Nicaragua,Nicaragua,schema:Country,0
+data:Niger,Niger,schema:Country,0
+data:Nigeria,Nigeria,schema:Country,0
+data:Niue,Niue,schema:Country,0
+data:AmericanExpress,American express,schema:PaymentMethod,0
+data:BlueCard,Blue card,schema:PaymentMethod,0
+data:Cash,Cash,schema:PaymentMethod,0
+data:Check,Check,schema:PaymentMethod,0
+data:ChequesDejeunersTicketsRestaurants,Chèques déjeuners - tickets restaurants,schema:PaymentMethod,0
+data:EurocardMastercard,Eurocard - mastercard,schema:PaymentMethod,0
+data:FrenchBonsCAF,French bons caf,schema:PaymentMethod,0
+data:HolidayVouchers,Holiday vouchers,schema:PaymentMethod,0
+data:InternationalMoneyOrder,International money order,schema:PaymentMethod,0
+data:NorfolkIsland,Norfolk island,schema:Country,0
+data:NorthernMarianaIslands,Northern mariana islands,schema:Country,0
+data:Norway,Norway,schema:Country,0
+data:Oman,Oman,schema:Country,0
+data:Pakistan,Pakistan,schema:Country,0
+data:Palau,Palau,schema:Country,0
+data:PalestineOccupiedTerritoryOf,"Palestine, occupied territory of",schema:Country,0
+data:Panama,Panama,schema:Country,0
+data:PapuaNewGuinea,Papua new guinea,schema:Country,0
+data:Paraguay,Paraguay,schema:Country,0
+data:Paypal,Paypal,schema:PaymentMethod,0
+data:Peru,Peru,schema:Country,0
+data:Philippines,Philippines,schema:Country,0
+data:Pitcairn,Pitcairn,schema:Country,0
+data:Poland,Poland,schema:Country,0
+data:PortoRico,Porto rico,schema:Country,0
+data:Portugal,Portugal,schema:Country,0
+data:Greece,Greece,schema:Country,0
+data:Greenland,Greenland,schema:Country,0
+data:Grenada,Grenada,schema:Country,0
+data:Guadaloupe,Guadaloupe,schema:Country,0
+data:Guam,Guam,schema:Country,0
+data:Guatemala,Guatemala,schema:Country,0
+data:Guinea,Guinea,schema:Country,0
+data:GuineaBissau,Guinea-bissau,schema:Country,0
+data:Guyana,Guyana,schema:Country,0
+data:Haiti,Haiti,schema:Country,0
+data:HeardAndMcDonaldIslands,Heard and mc donald islands,schema:Country,0
+data:Honduras,Honduras,schema:Country,0
+data:HongKong,Hong kong,schema:Country,0
+data:Hungary,Hungary,schema:Country,0
+data:Iceland,Iceland,schema:Country,0
+data:India,India,schema:Country,0
+data:IndianOceanBritishTerritoryOf,"Indian ocean, british territory of",schema:Country,0
+data:Indonesia,Indonesia,schema:Country,0
+data:IranIslamicRepublicOf,"Iran, islamic republic of",schema:Country,0
+data:Iraq,Iraq,schema:Country,0
+data:IrelandEire,"Ireland, eire",schema:Country,0
+data:Israel,Israel,schema:Country,0
+data:Italy,Italy,schema:Country,0
+data:IvoryCoast,Ivory coast,schema:Country,0
+data:Jamaica,Jamaica,schema:Country,0
+data:Japan,Japan,schema:Country,0
+data:Jordan,Jordan,schema:Country,0
+data:Kazakhstan,Kazakhstan,schema:Country,0
+data:Kenya,Kenya,schema:Country,0
+data:Kiribati,Kiribati,schema:Country,0
+data:KoreaPeoplesDemocraticRepublicOf,"Korea, people's democratic republic of",schema:Country,0
+data:KoreaRepublicOf,"Korea, republic of",schema:Country,0
+data:Kuwait,Kuwait,schema:Country,0
+data:Kyrgyzstan,Kyrgyzstan,schema:Country,0
+data:LaoPeoplesDemocraticRepublic,Lao people's democratic republic,schema:Country,0
+data:Latvia,Latvia,schema:Country,0
+data:Lebanon,Lebanon,schema:Country,0
+data:Lesotho,Lesotho,schema:Country,0
+data:Liberia,Liberia,schema:Country,0
+data:LibyaLibyanArabJamahiriya,"Libya, libyan arab jamahiriya",schema:Country,0
+data:Lichtenstein,Lichtenstein,schema:Country,0
+data:Lithuania,Lithuania,schema:Country,0
+data:Luxembourg,Luxembourg,schema:Country,0
+data:Macau,Macau,schema:Country,0
+data:MacedoniaFormerRepublicOfYugoslavia,"Macedonia, former republic of yugoslavia",schema:Country,0
+data:Madagascar,Madagascar,schema:Country,0
+data:Malawi,Malawi,schema:Country,0
+data:Malaysia,Malaysia,schema:Country,0
+data:Maldives,Maldives,schema:Country,0
+data:Mali,Mali,schema:Country,0
+data:CzechRepublic,Czech republic,schema:Country,0
+data:IroningRoom,Ironing room,dt:AccomodationAmenity,0
+data:Laundry,Laundry,dt:AccomodationAmenity,0
+data:LockedStorageRoom,Locked storage room,dt:AccomodationAmenity,0
+data:Oven,Oven,dt:AccomodationAmenity,0
+data:TelephoneMessages,Telephone messages,dt:AccomodationAmenity,0
+data:Denmark,Denmark,schema:Country,0
+data:Djibouti,Djibouti,schema:Country,0
+data:Dominica,Dominica,schema:Country,0
+data:DominicanRepublic,Dominican republic,schema:Country,0
+data:DutchWestIndies,Dutch west indies,schema:Country,0
+data:Ecuador,Ecuador,schema:Country,0
+data:Egypt,Egypt,schema:Country,0
+data:ElSalvador,El salvador,schema:Country,0
+data:EquatorialGuinea,Equatorial guinea,schema:Country,0
+data:Eritrea,Eritrea,schema:Country,0
+data:Estonia,Estonia,schema:Country,0
+data:Ethiopia,Ethiopia,schema:Country,0
+data:FalklandIslands,Falkland islands,schema:Country,0
+data:FaroeIslands,Faroe islands,schema:Country,0
+data:Fiji,Fiji,schema:Country,0
+data:Finland,Finland,schema:Country,0
+data:France,France,schema:Country,0
+data:FrenchGuyana,French guyana,schema:Country,0
+data:FrenchPolynesia,French polynesia,schema:Country,0
+data:FrenchSouthernAntarcticLands,French southern & antarctic lands,schema:Country,0
+data:Gabon,Gabon,schema:Country,0
+data:GambiaThe,"Gambia, the",schema:Country,0
+data:Georgia,Georgia,schema:Country,0
+data:Germany,Germany,schema:Country,0
+data:Ghana,Ghana,schema:Country,0
+data:Gibraltar,Gibraltar,schema:Country,0
+data:Qatar,Qatar,schema:Country,0
+data:Reunion,Reunion,schema:Country,0
+data:Roumania,Roumania,schema:Country,0
+data:RussiaFederationOf,"Russia, federation of",schema:Country,0
+data:Rwanda,Rwanda,schema:Country,0
+data:SaintHelena,Saint helena,schema:Country,0
+data:SaintKittsNevis,Saint kitts & nevis,schema:Country,0
+data:SaintLucia,Saint lucia,schema:Country,0
+data:SaintPetersVaticanState,Saint peter's (vatican state),schema:Country,0
+data:SaintVincentAndTheGrenadines,Saint vincent and the grenadines,schema:Country,0
+data:Samoa,Samoa,schema:Country,0
+data:SanMarino,San marino,schema:Country,0
+data:SaoTomeAndPrincipe,Sao tome and principe,schema:Country,0
+data:SaudiaArabia,Saudia arabia,schema:Country,0
+data:Senegal,Senegal,schema:Country,0
+data:SerbiaAndMontenegro,Serbia and montenegro,schema:Country,0
+data:Seychelles,Seychelles,schema:Country,0
+data:SierraLeone,Sierra leone,schema:Country,0
+data:Singapore,Singapore,schema:Country,0
+data:Slovakia,Slovakia,schema:Country,0
+data:Slovenia,Slovenia,schema:Country,0
+data:SolomanIslands,Soloman islands,schema:Country,0
+data:Somalia,Somalia,schema:Country,0
+data:SouthAfrica,South africa,schema:Country,0
+data:SouthGeorgiaAndTheSouthSandwichIslands,South georgia and the south sandwich islands,schema:Country,0
+data:Spain,Spain,schema:Country,0
+data:SriLanka,Sri lanka,schema:Country,0
+data:StPierreAndMiquelon,St pierre and miquelon,schema:Country,0
+data:SudanThe,"Sudan, the",schema:Country,0
+data:Suriname,Suriname,schema:Country,0
+data:SvalbardAndJanMayenIslands,Svalbard and jan mayen islands,schema:Country,0
+data:Swaziland,Swaziland,schema:Country,0
+data:Sweden,Sweden,schema:Country,0
+data:Switzerland,Switzerland,schema:Country,0
+data:SyriaArabRepublic,"Syria, arab republic",schema:Country,0
+data:TaiwanRepublicOfChina,Taiwan (republic of china),schema:Country,0
+data:Tajikistan,Tajikistan,schema:Country,0
+data:TanzaniaUnitedRepublicOf,"Tanzania, united republic of",schema:Country,0
+data:Thailand,Thailand,schema:Country,0
+data:TheNetherlands,The netherlands,schema:Country,0
+data:TimorLeste,Timor-leste,schema:Country,0
+data:Togo,Togo,schema:Country,0
+data:Tokelau,Tokelau,schema:Country,0
+data:Tonga,Tonga,schema:Country,0
+data:Transfers,Transfers,schema:PaymentMethod,0
+data:TrinidadAndTobago,Trinidad and tobago,schema:Country,0
+data:Tunisia,Tunisia,schema:Country,0
+data:Turkey,Turkey,schema:Country,0
+data:Turkmenistan,Turkmenistan,schema:Country,0
+data:TurksAndCaicosIslandsOf,"Turks and caicos, islands of",schema:Country,0
+data:Tuvalu,Tuvalu,schema:Country,0
+data:Uganda,Uganda,schema:Country,0
+data:Ukraine,Ukraine,schema:Country,0
+data:UnitedArabEmiratesUae,United arab emirates (uae),schema:Country,0
+data:UnitedKingdom,United kingdom,schema:Country,0
+data:UnitedStatesMinorOutlyingIslands,United states minor outlying islands,schema:Country,0
+data:UnitedStatesOfAmerica,United states of america,schema:Country,0
+data:Uruguay,Uruguay,schema:Country,0
+data:UsVirginIslands,Us virgin islands,schema:Country,0
+data:Uzbekistan,Uzbekistan,schema:Country,0
+data:Vanuatu,Vanuatu,schema:Country,0
+data:Venezuela,Venezuela,schema:Country,0
+data:Vietnam,Vietnam,schema:Country,0
+data:Visa,Visa,schema:PaymentMethod,0
+data:WallisAndFutunaIslands,Wallis and futuna islands,schema:Country,0
+data:WesternSahara,Western sahara,schema:Country,0
+data:YemenThe,"Yemen, the",schema:Country,0
+data:Zambia,Zambia,schema:Country,0
+data:Zimbabwe,Zimbabwe,schema:Country,0
