@@ -1,16 +1,9 @@
 # DATAtourist
 
-A new Flutter project.
+DATAtourist is a constraint-based recommender system which is relies on DATAtourisme ontology as a recent real-world knowledge source in tourism. It runs on mobile (Android and iOS).
+DATAtourist has been designed to process the following generic activities before recommending : user requirements specification, checking compatibility in user requirements, recommendation task, and checking recommendations list. It has been implemented using various technologies such as:
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Flutter  : https://flutter.dev/docs
+Firebase : https://firebase.google.com/
+DATAtourism api : https://framagit.org/datatourisme/api
+blazegraph : https://blazegraph.com/

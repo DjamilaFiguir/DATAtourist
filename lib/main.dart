@@ -7,7 +7,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'France tourism',
+      title: 'DATAtourist',
       theme: ThemeData(
           primaryColor: Colors.white,          
           appBarTheme: AppBarTheme(

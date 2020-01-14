@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:integration_firbase/Page/ProfilePage.dart';
 import 'package:integration_firbase/Page/grid_view.dart';
-import 'package:integration_firbase/essey/dialog.dart';
+
 
 class Navigattoscreen extends StatefulWidget {
   Navigattoscreen({Key key, this.title, @required this.user}) : super(key: key);
@@ -26,7 +26,7 @@ class NavigattoscreenState extends State<Navigattoscreen> {
    
     userMe = widget.user;
     _pageOptions = [
-     ExampleScreen(),
+     //ExampleScreen(),
      // Text("Home"),
       MyGridView(user: userMe), 
      // Mylocation(),
