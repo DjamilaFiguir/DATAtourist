@@ -3,6 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:integration_firbase/Page/filter.dart';
 import 'package:progress_indicators/progress_indicators.dart';
+
 class MyGridView extends StatefulWidget {
   MyGridView({Key key, this.title, @required this.user}) : super(key: key);
   final String title;
@@ -13,13 +14,9 @@ class MyGridView extends StatefulWidget {
 }
 
 class _MyGridViewState extends State<MyGridView> {
- 
-
   @override
   void initState() {
     super.initState();
-    
-    
   }
 
 //essey remlir from firebase
@@ -90,7 +87,7 @@ class _MyGridViewState extends State<MyGridView> {
         appBar: AppBar(
           title: Text(
             "Lists",
-            style: TextStyle(color: Colors.white,fontSize: 25),
+            style: TextStyle(color: Colors.white, fontSize: 25),
           ),
           backgroundColor: Color.fromARGB(250, 5, 101, 156),
           elevation: 1.5,
@@ -171,7 +168,7 @@ class _MyGridViewState extends State<MyGridView> {
                                         "img/$myImg",
                                         fit: BoxFit.cover,
                                         width: 250,
-                                        height:120,//here you
+                                        height: 120, //here you
                                       ),
                                     ),
                                   ),

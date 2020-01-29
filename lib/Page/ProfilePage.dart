@@ -26,7 +26,6 @@ class MapScreenState extends State<ProfilePage>
   List<dynamic> _preferenceTour = [];
   List<dynamic> _preferenceTransport = [];
   final FocusNode myFocusNode = FocusNode();
-  //final GlobalKey<FormState> _formKey = null;
   Map<String, dynamic> preferenceType = new Map<String, dynamic>();
   List<dynamic> documents = [
     "Accommodation",
@@ -37,11 +36,6 @@ class MapScreenState extends State<ProfilePage>
     "Tour",
     "Transport"
   ];
-  /*void _onFormSaved() {
-    final FormState form = _formKey.currentState;
-    form.save();
-  }*/
-
   void addPreferenceType(dynamic value, String champ) async {
     preferenceType[champ] = value;
     try {
@@ -802,7 +796,6 @@ class MapScreenState extends State<ProfilePage>
 
   @override
   void dispose() {
-    // Clean up the controller when the Widget is disposed
     myFocusNode.dispose();
     super.dispose();
   }

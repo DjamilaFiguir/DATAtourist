@@ -29,11 +29,7 @@ dependencies:
   progress_indicators: 
   rating_dialog: ^1.0.0
   flutter_image: ^2.0.0
-  #geolocator: '^2.0.2'
-  #firebase_analytics: ^2.1.1
-  #firebase_storage: ^2.1.0+1
-  #firebase_database: ^2.0.3
- # flutter_multiselect: ^0.2.0
+
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -53,12 +49,8 @@ dev_dependencies:
 flutter:
   assets:
     - assets/fr2.jpg
-    - assets/fr3.jpg
     - assets/images/as.png
-    - assets/images/as3.png
-    - assets/datatourist.png
-    - assets/advisorwhite.png
-    
+    - assets/datatourist.png    
     - img/Airport.jpg
     - img/Archeological site.jpg
     - img/Beach.jpg

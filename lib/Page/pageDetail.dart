@@ -140,31 +140,6 @@ class _DetailPageState extends State<DetailPage> {
             Row(
               mainAxisAlignment:  MainAxisAlignment.center,
                       children: <Widget>[
-                       /* Column(children: <Widget>[
-                          Builder(builder: (context) {
-                            return Container(
-                              margin: EdgeInsets.only(left: 4, ),
-                              child: MaterialButton(
-                                height: 31.0,
-                                minWidth: 18.0,
-                                elevation: 7.0,
-                                color: Colors.white,
-                                child: Row(
-                                  children: <Widget>[
-                                    new Text('Constraint',
-                                        style: TextStyle(
-                                            color: Color.fromARGB(
-                                                250, 30, 110, 160),
-                                            fontSize: 18.0)),
-                                  ],
-                                ),
-                                onPressed: () {
-                                  Scaffold.of(context).openEndDrawer();
-                                },
-                              ),
-                            );
-                          }),
-                        ]),*/
                          Container(
                               margin: EdgeInsets.only( left: 4),
                               child: MaterialButton(
@@ -282,48 +257,6 @@ class _DetailPageState extends State<DetailPage> {
                               ),
                             ],
                           ),
-                         /* SizedBox(
-                            height: 15,
-                          ),*/
-                           Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: <Widget>[
-                             /* Text(
-                                "Architecture Style",
-                                style: TextStyle(
-                                  fontSize: 20.0,
-                                  color: Color.fromARGB(250, 30, 110, 160),
-                                ),
-                              ),
-                              SizedBox(
-                                height: 2,
-                              ),
-                              Text(
-                                widget.mydatatour.archiStyle,
-                                style: TextStyle(fontSize: 15.0),
-                              ),*/
-                            ],
-                          ),
-                         /* SizedBox(
-                            height: 15,
-                          ),*/
-                            Column(
-                            crossAxisAlignment: CrossAxisAlignment.start,
-                            children: <Widget>[
-                             /* Text(
-                                "Cuisine Type ",
-                                style: TextStyle(
-                                  fontSize: 20.0,
-                                  color: Color.fromARGB(250, 30, 110, 160),
-                                ),
-                              ),
-                              SizedBox(
-                                height: 2,
-                              ),
-                              getTextWidgets(widget.mydatatour.cuisineType),
-                             */
-                            ],
-                          ),
                           SizedBox(
                             height: 15,
                           ),
@@ -424,7 +357,6 @@ class _DetailPageState extends State<DetailPage> {
                               ),
                               Text(
                                 "- " + widget.mydatatour.rdfslabelreview,
-                                //textAlign: TextAlign.center,
                                 style: TextStyle(fontSize: 15.0),
                               ),
                             ],
@@ -516,17 +448,6 @@ class _DetailPageState extends State<DetailPage> {
                                         ));
                                       },
                                     ),
-                                    /*Text(
-                                      widget.mydatatour.schemaemail,
-                                      overflow: TextOverflow.fade,
-                                      textAlign: TextAlign.start,
-                                      softWrap: false,
-                                      style: TextStyle(
-                                        fontSize: 15.0,
-                                        fontWeight: FontWeight.w400,
-                                        color: Colors.black,
-                                      ),
-                                    ),*/
                                     onPressed: () => {}),
                               ),
                             ],
@@ -554,10 +475,6 @@ class _DetailPageState extends State<DetailPage> {
                                   ));
                                 },
                               )
-                              /*Text(
-                                widget.mydatatour.schematelephone,
-                                style: TextStyle(fontSize: 15.0),
-                              ),*/
                             ],
                           ),
                         ]),
@@ -582,7 +499,5 @@ class _DetailPageState extends State<DetailPage> {
     return new Column(
         crossAxisAlignment: CrossAxisAlignment.start, children: list);
   }
-
-  
 }
 

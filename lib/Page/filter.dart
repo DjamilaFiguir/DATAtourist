@@ -16,8 +16,8 @@ import 'package:progress_indicators/progress_indicators.dart';
 class Filter extends StatefulWidget {
   final String name;
   final String myImg;
-    final FirebaseUser user;
-  Filter({this.name, this.myImg,@required this.user});
+  final FirebaseUser user;
+  Filter({this.name, this.myImg, @required this.user});
   @override
   _FilterState createState() => _FilterState();
 }
@@ -714,7 +714,9 @@ class _FilterState extends State<Filter> {
                                       color: Color.fromARGB(250, 30, 110, 160),
                                       size: 16,
                                     ),
-                                    SizedBox(width: 5,),
+                                    SizedBox(
+                                      width: 5,
+                                    ),
                                     new Text('Filtter',
                                         style: TextStyle(
                                             color: Color.fromARGB(
@@ -729,60 +731,60 @@ class _FilterState extends State<Filter> {
                             );
                           }),
                         ]),
-                         Container(
-                              margin: EdgeInsets.only(top: 145, left: 4),
-                              child: MaterialButton(
-                                height: 31.0,
-                                minWidth: 18.0,
-                                elevation: 7.0,
-                                color: Colors.white,
-                                child: Row(
-                                  children: <Widget>[
-                                    Icon(
-                                      Icons.location_on,
-                                      color: Color.fromARGB(250, 30, 110, 160),
-                                      size: 16,
-                                    ),
-                                    SizedBox(
-                                      width: 5,
-                                    ),
-                                    new Text('Near me',
-                                        style: TextStyle(
-                                            color: Color.fromARGB(
-                                                250, 30, 110, 160),
-                                            fontSize: 18.0)),
-                                  ],
+                        Container(
+                          margin: EdgeInsets.only(top: 145, left: 4),
+                          child: MaterialButton(
+                            height: 31.0,
+                            minWidth: 18.0,
+                            elevation: 7.0,
+                            color: Colors.white,
+                            child: Row(
+                              children: <Widget>[
+                                Icon(
+                                  Icons.location_on,
+                                  color: Color.fromARGB(250, 30, 110, 160),
+                                  size: 16,
                                 ),
-                                onPressed: () {},
-                              ),
+                                SizedBox(
+                                  width: 5,
+                                ),
+                                new Text('Near me',
+                                    style: TextStyle(
+                                        color:
+                                            Color.fromARGB(250, 30, 110, 160),
+                                        fontSize: 18.0)),
+                              ],
                             ),
-                            Container(
-                              margin: EdgeInsets.only(left: 4,top:145),
-                              child: MaterialButton(
-                                height: 31.0,
-                                minWidth: 20.0,
-                                elevation: 7.0,
-                                color: Colors.white,
-                                child: Row(
-                                  children: <Widget>[
-                                    Icon(
-                                      Icons.star,
-                                      color: Color.fromARGB(250, 30, 110, 160),
-                                      size: 16,
-                                    ),
-                                    SizedBox(
-                                      width: 5,
-                                    ),
-                                    new Text('Rating',
-                                        style: TextStyle(
-                                            color: Color.fromARGB(
-                                                250, 30, 110, 160),
-                                            fontSize: 18.0)),
-                                  ],
+                            onPressed: () {},
+                          ),
+                        ),
+                        Container(
+                          margin: EdgeInsets.only(left: 4, top: 145),
+                          child: MaterialButton(
+                            height: 31.0,
+                            minWidth: 20.0,
+                            elevation: 7.0,
+                            color: Colors.white,
+                            child: Row(
+                              children: <Widget>[
+                                Icon(
+                                  Icons.star,
+                                  color: Color.fromARGB(250, 30, 110, 160),
+                                  size: 16,
                                 ),
-                                onPressed: () {},
-                              ),
-                            )
+                                SizedBox(
+                                  width: 5,
+                                ),
+                                new Text('Rating',
+                                    style: TextStyle(
+                                        color:
+                                            Color.fromARGB(250, 30, 110, 160),
+                                        fontSize: 18.0)),
+                              ],
+                            ),
+                            onPressed: () {},
+                          ),
+                        )
                       ],
                     ),
                   ),
@@ -865,7 +867,7 @@ class _FilterState extends State<Filter> {
                           } else {
                             if (snapshot.data.length == 0) {
                               print("no result");
-                              relaxMsg="Relaxation";
+                              relaxMsg = "Relaxation";
                               msgOfConflit =
                                   "You have to relax your qurey in  " +
                                       cR[cR.length - 1].toString();
@@ -1153,7 +1155,8 @@ class _FilterState extends State<Filter> {
                                                 builder: (context) =>
                                                     DetailPage(
                                                         snapshot.data[index],
-                                                        index,widget.user),
+                                                        index,
+                                                        widget.user),
                                                 fullscreenDialog: true));
                                       },
                                     ),
@@ -1349,19 +1352,6 @@ class _FilterState extends State<Filter> {
   void getFiltres() {
     final RenderBox box = _drawerKey.currentContext?.findRenderObject();
     if (box != null) {
-      // drawer visibal
-      /* print('controllerType:  $controllerType');
-      print('controllerTheme:  $controllerTheme');
-      print('controllerEquipped:  $controllerEquipped');
-      print('selectedPayment: $selectedPayment');
-      print('selectedCuisine: $selectedCuisine');
-      print('selectedStyle: $selectedStyle');
-      print('selectedEnvironment: $selectedEnvironment');
-      print('_classement: $_classement');
-      print('_path: $_path');
-      print('_tour: $_tour');
-      print('_grp1: $_grp1');
-      print('_grp2: $_grp2');*/
       searchTextField1.textField.controller.text = controllerEquipped;
       searchTextField0.textField.controller.text = controllerTheme;
     }
@@ -1473,7 +1463,8 @@ class _FilterState extends State<Filter> {
       checkCompatibilty(cR[cR.length - 1]);
 
       if (isCompatibal == true) {
-        msgOfConflit = "The preview contains only the top 10 results of your query";
+        msgOfConflit =
+            "The preview contains only the top 10 results of your query";
       } else {
         msgOfConflit =
             cR[cR.length - 1] + " not Compatibal with Type " + widget.name;
@@ -1504,7 +1495,6 @@ class _FilterState extends State<Filter> {
       }
     }
     // execution of query --------------------------------------------------------------
-    //10.0.2.2 //192.168.43.163
     final response_2 = await http
         .post("http://192.168.43.163/myweb_for_ontolo/get_data.php", body: {
       "myType": controllerType,
