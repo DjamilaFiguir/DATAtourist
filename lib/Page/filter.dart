@@ -27,22 +27,22 @@ class _FilterState extends State<Filter> {
 
   List<String> classement = [
     "    ",
-    "Economic        ",
-    "Moyen    ",
-    "Lux    "
+    "Economic",
+    "Moyen",
+    "Lux"
   ];
   String _classement = "    ";
   List<String> path = [
     "    ",
-    "Long              ",
-    "Medium           ",
-    "Small           "
+    "Long",
+    "Medium",
+    "Small"
   ];
   String _path = "    ";
   List<String> tourType = [
     "    ",
-    "Loop itinerary          ",
-    "Open jaw itinerary             ",
+    "Loop itinerary",
+    "Open jaw itinerary",
     "Round Trip  "
   ];
 
