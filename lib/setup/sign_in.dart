@@ -152,7 +152,7 @@ class _LoginPageState extends State<LoginPage> {
       formState.save();
       try {
         FirebaseUser user = (await FirebaseAuth.instance
-            .signInWithEmailAndPassword(email: _email, password: _password)) as FirebaseUser;
+            .signInWithEmailAndPassword(email: _email, password: _password)).user;
         Navigator.push(
             context,
             MaterialPageRoute(
@@ -161,8 +161,8 @@ class _LoginPageState extends State<LoginPage> {
                     )));
       } catch (e) {
        mybool=false;
-       error= e.message;
-        print(e.message);
+      // error= e.toString();
+        print(e.toString());
       }
     }
   }

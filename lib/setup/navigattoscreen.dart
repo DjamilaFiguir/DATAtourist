@@ -27,7 +27,7 @@ class NavigattoscreenState extends State<Navigattoscreen> {
     userMe = widget.user;
     _pageOptions = [
      //ExampleScreen(),
-     // Text("Home"),
+     Text("Home"),
       MyGridView(user: userMe), 
      // Mylocation(),
       Text("favi"),
