@@ -24,11 +24,12 @@ dependencies:
   url_launcher: 
   flutter_map:
   autocomplete_textfield: ^1.6.4
-  firebase_auth: ^0.8.4+2
-  cloud_firestore: ^0.9.13
+  firebase_auth: ^0.15.4
+  cloud_firestore: ^0.13.0+1
+  firebase_core: ^0.4.3+3
   progress_indicators: 
   rating_dialog: ^1.0.0
-  flutter_image: ^2.0.0
+  flutter_image: ^3.0.0
 
 
 

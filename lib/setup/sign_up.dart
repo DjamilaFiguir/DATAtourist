@@ -225,8 +225,8 @@ class _SignUpPageState extends State<SignUpPage> {
         await FirebaseAuth.instance
             .createUserWithEmailAndPassword(email: _email, password: _password);
 
-        FirebaseUser user = await FirebaseAuth.instance
-            .signInWithEmailAndPassword(email: _email, password: _password);
+        FirebaseUser user = (await FirebaseAuth.instance
+            .signInWithEmailAndPassword(email: _email, password: _password)) as FirebaseUser;
 
         DocumentReference currentUid =
             Firestore.instance.collection("users").document('${user.uid}');

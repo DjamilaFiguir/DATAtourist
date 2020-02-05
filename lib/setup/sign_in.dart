@@ -46,7 +46,7 @@ class _LoginPageState extends State<LoginPage> {
                               Column(
                                 mainAxisAlignment: MainAxisAlignment.center,
                                 children: <Widget>[
-                                  Text("Autra Agency",
+                                  Text("DATAtourist",
                                       style: TextStyle(
                                           color: Colors.white,
                                           fontSize: 30.0,
@@ -151,8 +151,8 @@ class _LoginPageState extends State<LoginPage> {
     if (formState.validate()) {
       formState.save();
       try {
-        FirebaseUser user = await FirebaseAuth.instance
-            .signInWithEmailAndPassword(email: _email, password: _password);
+        FirebaseUser user = (await FirebaseAuth.instance
+            .signInWithEmailAndPassword(email: _email, password: _password)) as FirebaseUser;
         Navigator.push(
             context,
             MaterialPageRoute(
