@@ -13,7 +13,7 @@
          FlutterApplication and put your custom class here. -->
     <application
         android:name="io.flutter.app.FlutterApplication"
-        android:label="integration_firbase"
+        android:label="DATAtourist"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
