@@ -1496,7 +1496,7 @@ class _FilterState extends State<Filter> {
     }
     // execution of query --------------------------------------------------------------
     final response_2 = await http
-        .post("http://192.168.43.154/myweb_for_ontolo/get_data.php", body: {
+        .post("http://192.168.43.154/DatatouristeWeb/get_data.php", body: {
       "myType": controllerType,
       "myTheme": controllerTheme,
       "Equipped": controllerEquipped,
