@@ -24,20 +24,9 @@ class Filter extends StatefulWidget {
 
 class _FilterState extends State<Filter> {
   String img;
-
-  List<String> classement = [
-    "    ",
-    "Economic",
-    "Moyen",
-    "Lux"
-  ];
+  List<String> classement = ["    ", "Economic", "Moyen", "Lux"];
   String _classement = "    ";
-  List<String> path = [
-    "    ",
-    "Long",
-    "Medium",
-    "Small"
-  ];
+  List<String> path = ["    ", "Long", "Medium", "Small"];
   String _path = "    ";
   List<String> tourType = [
     "    ",
@@ -1570,7 +1559,7 @@ class _FilterState extends State<Filter> {
           rdfslabelTheme
               .add(tour.data.poi.results[i].hasTheme[j].rdfslabeltheme[0]);
         }
-      }else {
+      } else {
         rdfslabelTheme.add("no details ");
       }
       //contacts ---------------------------------------------------------------------------
@@ -1606,7 +1595,7 @@ class _FilterState extends State<Filter> {
           rdfslabelreview = tour.data.poi.results[i].hasReview[0]
               .hasReviewValue[0].rdfslabelreview[0];
         }
-      }else {
+      } else {
         rdfslabelreview = "no review";
       }
 
